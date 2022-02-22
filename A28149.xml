@@ -1,0 +1,912 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Saints freedom from tyranny vindicated, or, The power of pagan caesars and antichristian kings examined and they condemned by the prophets and apostles, as no magistrates of God to be obeyed by saints for the Lords sake : being the coppy of an answer to a private letter, wherein the civil power of Satan and antichristian states is soberly debated ... / by a lover of truth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28149</idno>
+            <idno type="STC">Wing B29</idno>
+            <idno type="STC">ESTC R12371</idno>
+            <idno type="EEBO-CITATION">11825107</idno>
+            <idno type="OCLC">ocm 11825107</idno>
+            <idno type="VID">49673</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49673)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 806:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Saints freedom from tyranny vindicated, or, The power of pagan caesars and antichristian kings examined and they condemned by the prophets and apostles, as no magistrates of God to be obeyed by saints for the Lords sake : being the coppy of an answer to a private letter, wherein the civil power of Satan and antichristian states is soberly debated ... / by a lover of truth.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Epistle to the reader signed: A.B.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Antichrist.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49673:1"/>
+            <pb facs="tcp:49673:1" rendition="simple:additions"/>
+            <p>THE Saints Freedom From TYRANNY VINDICATED: OR, The Power of Pagan <hi>Caeſars,</hi> and Antichriſti<g ref="char:EOLhyphen"/>an Kings Examined, and they Condemned by the Prophets and Apoſtles, as no Ma<g ref="char:EOLhyphen"/>giſtrates of God to be obeyed by Saints for the Lords ſake.</p>
+            <p>Being The Coppy of an Anſwer to a Private Letter; wherein the Civil Power of Pagan and Antichriſtian States is ſoberly debated, and the chief or main Arguments for Saints Subjection to them, is anſwered with much Love, Brevity and Plainneſs; and now brought forth for the Conſideration of others</p>
+            <p>By a Lover of TRUTH.</p>
+            <q>
+               <bibl>Jam. 4. 12.</bibl>
+               <p>
+                  <hi>There is one Lawgiver, who is able to Save and to De<g ref="char:EOLhyphen"/>ſtroy.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Iſa. 1. 26, 27.</bibl>
+               <p>
+                  <hi>And I will reſtore thy Judges as at the firſt, and thy Counſellours as at the beginning:</hi> &amp;c. Iſa. 10. 27. Ezek. 21. 26, 27. Zech. 14. 9.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1667.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:49673:2"/>
+            <pb facs="tcp:49673:2"/>
+            <head>The Epiſtle to the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>DIvine Commands put into Act, or Gods revealed Will and <note place="margin">
+                  <hi>Pſa.</hi> 19. 1, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>&amp;c.</hi>
+               </note> Laws put into Execution, gave Being, <g ref="char:V">Ʋ</g>ſefulneſs and Beauty to the whole Creation; when Gods Will is done by Men on Eearth (as by the Angels in Heaven) Gods <note place="margin">
+                  <hi>Mat.</hi> 6. 10.</note> Kingdom, Rule, and Government is then come in this World, as pro<g ref="char:EOLhyphen"/>miſed, prayed for, and expected by Believers.</p>
+            <p>When <hi>Jehovah</hi> had perfected his ſix days work of the Creation, <note place="margin">
+                  <hi>Gen.</hi> 1. 31.</note> he looked over all that he had made, and ſaw that it was very good; but Mans diſobedience to that Law which God gave to him, brought <note place="margin">
+                  <hi>Gen.</hi> 3. 17, 18, 19.</note> the Curſe upon Man, and upon the Ground for Mans ſake, ſo that darkneſs, diſorder, ſorrow, and death hath been the fruits of Mans ſin. This Curſe was in ſome meaſure abated, and reſtrained by Gods grace in the promiſed Meſſias; and when God had freely choſen and called <hi>Abraham,</hi> and promiſed to him, <hi>That the</hi> 
+               <note place="margin">
+                  <hi>Gen.</hi> 12. 1, 2, 3. <hi>Mat.</hi> 1. 1. <hi>Exod.</hi> 19 4, 5, <hi>&amp;c. Exod.</hi> 20. 1, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3, <hi>&amp;c. and Ch. p.</hi> 21. 22, 23, 24, 25, <hi>&amp;c.</hi>
+               </note> 
+               <hi>Meſſias</hi> (in the fleſh) <hi>ſhould come of his Seed,</hi> God after gather<g ref="char:EOLhyphen"/>ed <hi>Iſrael</hi> into Covenant with himſelf, (and beſides the Ceremoni<g ref="char:EOLhyphen"/>al Law for Worſhip) God alſo renewed the Morral Law, (or Law of Nature) by the hand of <hi>Moſes,</hi> that <hi>Iſrael</hi> had written Laws for the well ordering of every P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſon, and Family, whether as Mem<g ref="char:EOLhyphen"/>bers of Families, Church or State. Under this Divine Government for Bodies, and Souls, <hi>Iſrael</hi> enjoyed the preſence and protection of <note place="margin">
+                  <hi>Deut.</hi> 4. 5, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>&amp;c.</hi> 2 <hi>Chron.</hi> 18. 2.</note> God Almighty in the midſt of Brutiſh Heathen States. When <hi>Iſra<g ref="char:EOLhyphen"/>el</hi> kept cloſe to Gods Laws and Government in Church and State, God kept cloſe to <hi>Iſrael,</hi> and was their ſafety, peace and glory.</p>
+            <p>But as <hi>Adam</hi> at firſt, <hi>Iſrael</hi> after (in their time) brake Covenant <note place="margin">
+                  <hi>Jer.</hi> 2. 17, 18, 19.</note> with God, and God gave them up into the hands of beaſtly bruitiſh-heathen Kings, or States, to make them know what a ſad and bitter thing it was to depart from God. <hi>Iſrael</hi> became Gods viſible Peo<g ref="char:EOLhyphen"/>ple by viſible Covenant, as a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hurch, and as a State, wherein they <note place="margin">
+                  <hi>Exod.</hi> 24. 3, 4, 5, <hi>&amp;c. Jer.</hi> 3. 14. <hi>Ezek</hi> 16. 38<g ref="char:punc">▪</g> 
+                  <hi>Hoſ.</hi> 1. 2<g ref="char:punc">▪</g>
+               </note> promiſed Obedience and Subjection, in the way of a Marriage Cove<g ref="char:EOLhyphen"/>nant between Man and Wife; and in that ſence the Lord ſo often charged <hi>Iſrael</hi> and <hi>Judah,</hi> for adultery, whoredom, and breaking
+<pb facs="tcp:49673:3"/> the Bond of Wedlock, and at laſt gave them a Bill of Divorce and <note place="margin">
+                  <hi>Jer.</hi> 3. 8. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſ.</hi> 2. 2.</note> left his viſible Protection of them. In the latter part of the Jewiſh oppreſſed State, God fulfilled Old <hi>Jacob</hi>'s Propheſie of Chriſt, and <note place="margin">
+                  <hi>Gen.</hi> 49. 10.</note> ſent forth his Son Jeſus Chriſt into the World, and laid the Govern<g ref="char:EOLhyphen"/>ment upon his Shoulders. When Chriſt was inveſted into his Medi<g ref="char:EOLhyphen"/>atory <note place="margin">
+                  <hi>Iſa.</hi> 9. 6.</note> Authority, he founded the New Teſtament State, or the <note place="margin">
+                  <hi>Mat.</hi> 16. 17, 18.</note> Kingdom of God, or the Kingdom of Heaven, or the Heavenly Kingdom, Rule and Government of God upon Earth, in viſible Be<g ref="char:EOLhyphen"/>lievers; and as King, ordained Laws, Ordinances, Officers, and Go<g ref="char:EOLhyphen"/>vernment <note place="margin">
+                  <hi>Mat.</hi> 16. 19, 20. <hi>and</hi> 26. 26, 27, <hi>&amp;c. and</hi> 28. 18, 19. 20. <hi>Mat.</hi> 9. 15.</note> to his Diſciples or Followers, profeſſing him, or his Sove<g ref="char:EOLhyphen"/>raignty, and ſeparated from the World. In that time that He (the Bridegroom) was with his Bride on Earth, the Diſciples had a taſte and earneſt of this his Kingdom, Dominion and Government, which (in his time) he will more manifeſt (in this world) in greater Pow<g ref="char:EOLhyphen"/>er <note place="margin">1 <hi>Tim.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 15. 2 <hi>Theſ.</hi> 2. 7. 1 <hi>John</hi> 2. 19. 2 <hi>Theſ.</hi> 2. 3, 4 <hi>v.</hi> 9. 10. <hi>Rev.</hi> 13. 8.</note> and Glory. The Miſtery of Iniquity began early to appear in the Apoſtles times, and there were then many Antichriſts, but the Anti<g ref="char:EOLhyphen"/>chriſt after aroſe as a Curſe and Judgment upon the formal hyyocri<g ref="char:EOLhyphen"/>tical profeſſing Party in the Chriſtian Church or State. Chriſt by the Spirit in the Apoſtles did reveal or fore-ſhew the Riſe and Tyranny of the apoſtate ſtate, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> yet was no moving cauſe of the Apoſtacy, but fore-ſhewed the effect, rather to deter than encourage to ſin. <g ref="char:V">Ʋ</g>nder the <note place="margin">2 <hi>King.</hi> 24 2 <hi>Luke</hi> 21 20, 21 22, 23, 24. <hi>Dan.</hi> 7. 25. <hi>Rev.</hi> 17. 6.</note> yoak of Heathen Tyranny the Jewiſh State was waſted and deſtroyed; and under Antichriſtian Tyranny the Chriſtian Churches and Saints have been much worn out; but by the Saints long darkneſs and Bondage, they have been (like <hi>Iſrael</hi> in <hi>Egypt)</hi> Naturalized to Servi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ude, and taught to ſubject to oppreſſing Tyrants, as the Or<g ref="char:EOLhyphen"/>dinance of God, and as lawful Magiſtrates ſet over them by God. But ſtill God and his Word abides the ſame that it was; and God hath promiſed to Redeem his <hi>Sion,</hi> and Reſtore his Polittical Go<g ref="char:EOLhyphen"/>vernment, <note place="margin">
+                  <hi>Iſa.</hi> 1. 26, 27. <hi>&amp;</hi> 11. 1. <hi>to</hi> 9.</note> in Juſtice, Judgement and Righteouſneſs in the Earth, under the Peaceable Kingdom and Rule of Jeſus the Christ. It's therefore the Saints Priviledge and Duty to pray for this, and to ſeek for a thorow Reformation in the State, as in the Church. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> Where <note place="margin">
+                  <hi>Mat.</hi> 6. 10.</note> Worſhip is National, Purity in the Church cannot long ſtand with Corruption in State. This is that Generation-Truth, which this Author labours to demonſtrate, and bring forth into Victory, and only appeals to the Word and Law of God, the great, only, and in<g ref="char:EOLhyphen"/>fallible <note place="margin">
+                  <hi>Iſa.</hi> 8. 20. 2 <hi>Tim.</hi> 3. 16 17.</note> Judge in all Caſes for Faith and Manners.</p>
+            <pb facs="tcp:49673:3"/>
+            <p> Providence brought this Coppy to my hand, and upon the ſerious peruſal of it, I took my ſelf bound to give my aſſiſtance to bring it forth to the View of others, not queſtioning but the Subject it ſelf will gain acceptance with all People, who deſire ſo to live and walk with God on Earth, that they may Reign with Jeſus Chriſt in Glo<g ref="char:EOLhyphen"/>ry. This is the utmoſt end of him who waits and prayes for <hi>Sions</hi> promiſed Redemp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion.</p>
+            <closer>
+               <signed>A, B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:49673:4"/>
+            <pb n="7" facs="tcp:49673:4"/>
+            <head>THE <hi>Saints Freedom from Tyranny Vin<g ref="char:EOLhyphen"/>dicated,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Return upon the Paper I ſent you, came to my hand, the which I thankfully receive, and acknow<g ref="char:EOLhyphen"/>ledge that you exceeded my expectation; I am not altogether a Stranger to the continued ingagements which lye upon you: But my great aſſurance of your Love, and Zeal for our Lords Honour, and Intereſt (with your appro<g ref="char:EOLhyphen"/>ved Wiſdom, and Meekneſs to manage this point in Contro<g ref="char:EOLhyphen"/>verſie) hath made me bold thus to preſume upon you. But I may ſay alſo (as I humbly judge) that you have ſome en<g ref="char:EOLhyphen"/>gagement upon you, to hear and anſwer the humble deſires of your Brethren for Light in the Myſtical Viſions of the Reve<g ref="char:EOLhyphen"/>lation; and upon that ground alſo I was the rather embolden<g ref="char:EOLhyphen"/>ed to deſire your Return upon the Paper I ſent you, and you have done like your ſelf, to make ſo ſudden and large return to me. Yours I have peruſed, and on the behalf of our Lord, (and of Truth, as I conceive) I am emboldned to make ſome Reply in what I cannot receive. I do ſay with great confi<g ref="char:EOLhyphen"/>dence, that I believe your heart is one with mine, to find out and advance our Lords Intereſt in truth and clearneſs, but when we conſider the Time, and State we have been born, edu<g ref="char:EOLhyphen"/>cated, and lived in; we have cauſe to admire the riches of free grace, which hath made us to differ from groſs Idolaters, and hath given us any Light, and Faith to be Witneſſes for Chriſt in any of his Mediatory Offices. We, I ſay, who have had our Birth and Education under ſo great Antichriſtian darkneſs and bondage, it is only of Free Grace that we are what we are.
+<pb n="8" facs="tcp:49673:5"/> Though ſome have a little more light then others in Divine Myſteries, yet it may be ſaid to thoſe of higheſt attainments What have you that you have not received? Therefore ſuch as have moſt Light, have not to boaſt in themſelves, or carry it proudly to their Brethren of lower Light and Faith in Gene<g ref="char:EOLhyphen"/>ration Truths. If I miſtake not, the opening of the ſeven-ſeald Book of Divine Myſteries, ſpeaks a gradual diſcovery of Light in Generation Truths; and now the Generation Truth is Chriſt Kingly Authority Civil and Spiritual for the Bodies and Souls of his People or Saints in Covenant-relation unto him. The Beaſt (here) doth not openly and profeſſedly deny Chriſts Prophetical Office, and the authority of Holy Scriptures nor the Prieſtly Office of Chriſt, in the ſufficiency of this Me<g ref="char:EOLhyphen"/>rit and Righteouſneſs to the Juſtification and Salvation of Be<g ref="char:EOLhyphen"/>lievers. But the Kingly Office of Chriſt is only denyed, in his Soveraignty over his People in things Eccleſiaſtical and Civil. And this is the Generation-Truth now witneſſed to, and ſuffered for; and in which, or for which <hi>the Witneſſes are</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 11. 7.</note> 
+               <hi>ſlain, by the Beaſt aſcending out of the botomleſs pit,</hi> in my under<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>There are few real Profeſſors at this day, but in words they confeſs Chriſt's Royal Soveraignty over their Souls in Spiritu<g ref="char:EOLhyphen"/>all, or Eccleſiaſtical things (though they live not in practice up to that profeſſion:) but there are very few who in Light, Faith, and Profeſſion witneſs to Chriſts Royal Authority over the Saints Bodies, Eſtates, and Liberties in Civil or Temporal things here on Earth. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> This Soveraign Authority I take to be actually ſeated alſo in Chriſt as Mediator by God the Father, and is to be witneſſed to now as a Generation-Truth. Some dear Soules have judged me ſingular (or alone) in this opini<g ref="char:EOLhyphen"/>on; but I find it a Truth which is and will be more and more witneſſed to, as the Day of the Lord draweth on, and the Vail of Antichriſtian darkneſs is removed and taken away. Both this darkneſs and bondage of Antichriſt was a Curſe and Judg<g ref="char:EOLhyphen"/>ment <note place="margin">2 <hi>Theſ.</hi> 2. 10, 11.</note> upon Chriſtian Profeſſors from God for their earthlineſs and hypocriſie. But it is promiſed, <hi>That, that wicked one ſhall be revealed</hi> (diſcovered, or made naked) <hi>whom the Lord will</hi> 
+               <note place="margin">2 <hi>Theſ.</hi> 2. 8.</note> 
+               <hi>conſume with the ſpirit of his mouth, and ſhall deſtroy with the brightneſs of his coming.</hi>
+            </p>
+            <pb n="9" facs="tcp:49673:5"/>
+            <p> Although (as yet) the Beaſt Antichriſt is not fully made manifeſt to the Lords People as he will be, yet we have great cauſe to bleſs and praiſe God for what we ſee, and thankfully accept our meaſures of preſent Light, as earneſts of what is promiſed, and as evidences of our Lords appearing. As our Lords right to Soveraign Rule in Civil things is now the great Queſtion and Controverſie amongſt real believing Chriſtian Profeſſors, it is our great duty to ſearch the Scriptures therein, and humbly to lye at Gods feet, and beg for the teaching of the <note place="margin">John 16. 13.</note> Spirit of Truth to lead us into this truth alſo. We are under the promiſe of the Laſt Times, <hi>That many ſhall run to and fro,</hi> 
+               <note place="margin">Dan. 12. 4.</note> 
+               <hi>and knowledge ſhall be increaſed.</hi> And I hope that this our inter<g ref="char:EOLhyphen"/>courſe to communicate our preſent Light to each other, (in this great point, in love and in meekneſs) may tend greatly to bring us both to more perfect and diſtinct knowledge of Gods will in this Truth, and the Truth into Victory.</p>
+            <p>In your Paper, I humbly accept your grave and Chriſtian Anſwers (in caſe of male adminiſtration of a Lawful Power) in many particulars; but I muſt confeſs that I yet ſee it not proved from the Scriptures of Old or New Teſtament, That the Heathen <hi>Roman Caeſars</hi> were ever Magiſtrates Ordained by God, to Rule and Govern his People, before or after Chriſt was inveſted with his Mediatory Authority; and then much <note place="margin">Deut. 1. 9, 13, 14. &amp; 16. 18, 19, &amp;c. Rom. 13. 1, 2, 3, &amp;c. 1 Pet 2. 13. 14. Joſh. 7. 9.</note> leſs that the Civil Power of Antichriſt was a Beam of Divine Soveraignty, and the Ordinance of God to be ſubmitted and ſubjected to by the Lords People, for the Lords ſake. Magi<g ref="char:EOLhyphen"/>ſtracy, or Polittical Government, and Governors in Civil and Temporal things, I own to be the Ordinance and appointment of God, to Rule and Order his People according to his Law, as Polittical Fathers, to whom the Lords People (in diſcharge of that Office and Truſt) do owe obedience and ſubjection to for the Lords ſake, and Conſcience ſake (actively) as of duty, and paſſively, when they tranſgreſs the Laws and Commands of God. But that either the Heathen Emperors, or Antichriſti<g ref="char:EOLhyphen"/>an Kings were called by God to this Office and Authority, I yet underſtand not.</p>
+            <p>That which doth conſtitute, ſpecifie, and denominate a <note place="margin">Exod. 18. 21, 22. &amp;c.</note> Political Governour, or Magiſtrate to be the Ordinance of
+<pb n="10" facs="tcp:49673:6"/> God, is, That he be ſo Qualified, ſo called to Office, and ſo <note place="margin">Deut 1. 9, 13, 14. &amp; 4. 1, 2, 5. &amp; 16. 18. &amp; 17. 18, 19, 20. 2 Sam. 23. 3.</note> Ruling as God hath commanded, and ordained, or ordered, as his Miniſter in the State, 2 <hi>Chr.</hi> 19. 6, 7. <hi>Rom.</hi> 13. 1, 2, 3, 4, 5. 1 <hi>Pet.</hi> 2. 13, 14.</p>
+            <p>I humbly judge, That due qualifications in a man for a <hi>Ma<g ref="char:EOLhyphen"/>giſtrate,</hi> makes not a man to be a <hi>Magiſtrate;</hi> That a Call of a People only, makes not a <hi>Magiſtrate;</hi> That a Perſon duely Qualified, and rightly Called by a People to Rule, if he rule not by Gods Laws, he is yet no <hi>Magiſtrate,</hi> or <hi>Miniſter</hi> of God, (as the Ordinance of God, or by Gods appointment) to be obeyed by the Lords People, <hi>for the Lords ſake,</hi> or for <hi>Conſci<g ref="char:EOLhyphen"/>ence,</hi> not having the Eſſentials of a <hi>Governour,</hi> or <hi>Magiſtrate,</hi> which God Ordained and Commanded.</p>
+            <p>The <hi>Prieſthood</hi> under the Law was, and the <hi>Miniſtry</hi> under the <note place="margin">Exod. 28. 1, 2, &amp;c. and 29. 1, 2, &amp;c. Eph. 4 11, 12. 1 Tim 3. 1, 2, 3 &amp;c. Act. 20. 28. Heb. 5. 4.</note> Goſpel, <hi>is the Ordinance of Gods appointment;</hi> their Qualifica<g ref="char:EOLhyphen"/>tions, Inveſtment into Office, and Duties of Office, were all Ordained and commanded of God; but if any Perſon put him<g ref="char:EOLhyphen"/>ſelf into the <hi>Prieſts</hi> Office, or a <hi>Paſtoral Charge,</hi> by <hi>might,</hi> or <hi>force,</hi> or <hi>pretended right;</hi> or if a People ſhould Call a <hi>Fool,</hi> or a Perſon (Man or Woman) to Office in the Church, as a <hi>Pa<g ref="char:EOLhyphen"/>ſtor,</hi> not <hi>duely Qualified,</hi> as God hath appointed; <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> or if a Perſon <hi>duely Qualified,</hi> and <hi>rightly Called</hi> to Office, do yet reject the Laws and Ordinances of God and the Goſpel (when in Office) <hi>and offer ſacrifices to Idols, and obey the Comands of Men, contrary to the Inſtitutions of God;</hi> theſe, under the Law, were <hi>Sons of</hi> 
+               <note place="margin">1 Sam. 2, 12. 13. 1 King. 18. 19, &amp;c. 1 Joh. 2. 18, 22 1 Theſ. 5. 12. Heb. 13. 17.</note> 
+               <hi>Belial,</hi> and <hi>Prieſts of Baal;</hi> and in the Goſpel-ſtate, ſuch are <hi>Miniſters of Antichriſt,</hi> and not <hi>Miniſters of God,</hi> or the <hi>Ordi<g ref="char:EOLhyphen"/>nance of God, to be obeyed for the Lords ſake, as commanded by God.</hi> I might give other Demonſtrations in the Ordinances of the Law and Goſpel, what Eſſentials were, and now are neceſſary to conſtitute and denominate an <hi>Ordinance of God</hi> for matter and form; but I conſider to whom I write. Indeed Anti<g ref="char:EOLhyphen"/>chriſt hath aſſumed the Soveraign Authority of God and of Chriſt <hi>Civil,</hi> and <hi>Eccleſiaſtical,</hi> and by <hi>Popiſh</hi> darkneſs and ſla<g ref="char:EOLhyphen"/>very, <note place="margin">2 Theſ. 2. 3, 4. 1 John 2. 22.</note> his Subjects have received his Commands as <hi>Divine;</hi> not queſtioning or denying his uſurped Power over Bodies and Souls, how contrary ſoever his Commands and Appointments <note place="margin">Rev. 13. 15, 16, 17. &amp; 17. 4.</note> were, or are, to the <hi>Ordinances</hi> and <hi>Appointments of God,</hi> they muſt be recieved as <hi>Gods Ordinances.</hi>
+            </p>
+            <pb n="11" facs="tcp:49673:6"/>
+            <p> Through the Lords rich and free grace, the Antichriſtian Vail is (in a good meaſure) taken away from many Profeſ<g ref="char:EOLhyphen"/>ſors, in Eccleſiaſtical and Church-concerns; But the great Body of <hi>Proteſtants</hi> are ſtill ſtumbled about Antichriſts Civil Power, and do own Antichriſt (in his Civil Power) for <hi>the Or<g ref="char:EOLhyphen"/>dinance of God,</hi> though ſome few cannot: But that very way by which God hath led his People to diſcover the true and pure Ordinances of God in the Church (from falſe Antichriſtian cheats and deluſions in Worſhip) <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> the ſame will alſo lead Be<g ref="char:EOLhyphen"/>lievers to the diſcovery of Heatheniſh and Antichriſtian cheats in the <hi>Political State,</hi> and difference between <hi>Magiſtracy</hi> as the <note place="margin">Pſal. 119. 104, 105. Iſa. 8. 20. 2 Tim. 3. 16, 17.</note> 
+               <hi>Ordinance of God,</hi> and the <hi>Tyranny of wicked Men, viz.</hi> by com<g ref="char:EOLhyphen"/>ing to Gods <hi>Law and Teſtimony,</hi> and thereby examine Church and State <hi>Officers,</hi> and <hi>Ordinances,</hi> as ordained, conſtituted, and appointed of God, and by God.</p>
+            <p>What Chriſt required of, and anſwered the <hi>Jews</hi> Meſſengers <note place="margin">Mat. 22. 15, 16, &amp;c.</note> when they were ſent to entrap him in point of <hi>Caeſars Power,</hi> I would query and anſwer, both of the Heathen and Antichriſti<g ref="char:EOLhyphen"/>an <note place="margin">Exod. 18. 19, 20, &amp;c. Deut. 1. 9, 13, 14. 2 Chr. 19. 6, 7. Pſal. 82. 1, 6. Rev. 14. 1. and 17. 14. Rom 13. 3, 4, 5 Rev. 13. 1, 2. and 11, &amp;c. Rev. 2. 10. and 11. 7. and 12. 9. and 13. 5, 6, 7.</note> Emperors and Kings, <hi>viz. Whoſe is the Image and Super<g ref="char:EOLhyphen"/>ſcription upon them?</hi> If they bear the Image and Superſcripti<g ref="char:EOLhyphen"/>on of God upon them, if they have the Name of God written in their fore-heads, and they in the Place, Office, and Work of God, to Rule his People by <hi>Divine Authority;</hi> then they were and are to be <hi>ſubjected to, for the Lords ſake:</hi> But if thoſe Emperors and Kings bear the Image and Superſcription of the Devil, are raiſed by the Devil, and do the Devils work, (all which is true) there is no Scripture-Warrant (as I conceive) for the Lords People to obey ſuch Emperors or Kings, as the <hi>Ordinance of God.</hi>
+            </p>
+            <p>The firſt riſe and original of <hi>Polittical Government,</hi> and <hi>Ma<g ref="char:EOLhyphen"/>giſtracy,</hi> 
+               <note place="margin">Exod. 2 10 &amp; 18 15, 16, &amp;c. Deut. 1. 9, 13, 14. Exod. 21, 22, 23 Chapters, &amp;c.</note> as Ordained and Appointed by God, was amongſt the <hi>Jews</hi> at their coming out of <hi>Egypt,</hi> and in the <hi>Wilderneſs,</hi> in their way to <hi>Canaan:</hi> God firſt called <hi>Moſes,</hi> immediately, and intruſted him <hi>(Miniſterially)</hi> with <hi>Magiſtratical Power</hi> and <hi>Authority,</hi> to Lead and Govern <hi>Iſrael</hi> (not other Nations) his <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ovenant-People.</hi> In <hi>Moſes</hi> time God gave <hi>Iſrael</hi> Laws, and <hi>Poli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tical Government,</hi> which they were to exerciſe and put in <note place="margin">Deut. 16. 18, &amp;c. and 17, 14, 15, &amp;c.</note> execution when they came into <hi>Canaan,</hi> both as a <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi>
+               <pb n="12" facs="tcp:49673:7"/> and as a <hi>Kingdom.</hi> At that time when God conſtitu<g ref="char:EOLhyphen"/>led <hi>Iſrael</hi> a <hi>Polittical State,</hi> there were many and great Nations <note place="margin">Deu. 4. 5, 6, &amp;c and 7. 7, 8.</note> in the World, who made themſelves Kings, and exerciſed <hi>Po<g ref="char:EOLhyphen"/>littical Government,</hi> from the Light and Law of Nature, (by the Permiſſion of God) but not by the Ordination and Ap<g ref="char:EOLhyphen"/>pointment of God, as <hi>Iſrael</hi> had: this is recorded by <hi>Moſes, Deut.</hi> 4. 5, 6, &amp;c. and 7. 7, 8. And long after <hi>Moſes, David</hi> ſaid, <hi>He ſhewed his Word to Jacob, his Statutes, and his Judge<g ref="char:EOLhyphen"/>ments unto Iſrael. He hath not dealt ſo [with any Nation;] and as</hi> 
+               <note place="margin">Pſa. 147. 19, 20</note> 
+               <hi>for his Judgements they have not known them.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> Thus from <hi>Nim<g ref="char:EOLhyphen"/>rod</hi> to <hi>David</hi> the Heathen Emperors and Kings were not the <hi>Ordinance of God, to rule and govern his People.</hi> Again, in <hi>Da<g ref="char:EOLhyphen"/>vids</hi> 
+               <note place="margin">Pſal. 72, &amp; 89 20, 21, 22, &amp;c. Mat. 1. 1 an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2. 1. 2. Luke 1. 35, 36 and v. 69, 70, &amp;c. Gen. 49. 10. Ezek. 21. 27, and 34. 24, 25.</note> time, God by Covenant entailed the Royal Scepter of <hi>Judah</hi> upon <hi>David</hi> and his Heirs in the fleſh, but chiefly upon Jeſus Chriſt, as the Son of <hi>David,</hi> according to <hi>Jacobs</hi> Prophe<g ref="char:EOLhyphen"/>ſie: <hi>The Scepter ſhall not depart from Judah, nor a Law-giver from between his feet, until Shiloh come: and unto him ſhall the gathering of the people be.</hi>
+            </p>
+            <p>Theſe Scriptures clearly aſſert Jeſus Chriſt, the Son of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> and ſo he had right to the Royal Government of <hi>Judah</hi> ſo ſoon as he was born; <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> therefore no Heathen King had right to the Crown of <hi>Judah,</hi> by <hi>Gods Donation,</hi> from firſt to laſt.</p>
+            <p>But Chriſt, as Mediator, had alſo another Royal Soveraign<g ref="char:EOLhyphen"/>ty <note place="margin">Pſa. 2. 7, 8, &amp;c. Eph. 1. 21, 22. Phil. 2. 8, 9, 10. Mat. 28 18, 19 Mar. 16. 15.</note> given him by God the Father, over <hi>Jews</hi> and <hi>Gentiles,</hi> for Souls and Bodies, which Authority was publiſhed and decla<g ref="char:EOLhyphen"/>red by Chriſt himſelf. <hi>Jeſus came and ſpake unto them</hi> (the eleven Diſciples) <hi>ſaying, All Power is given unto me in Heaven and in Earth; Go ye therefore,</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> Thus <hi>Royal</hi> and <hi>Magiſterial Authority</hi> (as <hi>Gods Ordinance)</hi> was clearly in and amongſt Gods Covenant-People, from <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> to Chriſt, and with none other. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But it is Objected, That <hi>Daniels</hi> expounding <hi>Nebuchadnezzars</hi> Dream, of the great <note place="margin">Dan. 2. 37, &amp;c.</note> Image, ſaid to him, <hi>Thou, O King, art a King of Kings; for the God of heaven hath given thee a Kingdom, Power, and Strength, and Glory: and after thee ſhall ariſe another Kingdom, &amp;c.</hi> There<g ref="char:EOLhyphen"/>fore theſe four Kings, or Imperial States, were the <hi>Ordinance of God,</hi> and lawful <hi>Magiſtrates,</hi> or <hi>Miniſters</hi> of God, to whom the Lords People did, and ſtill do owe <hi>Obedience to, in Civil things.</hi>
+            </p>
+            <pb n="13" facs="tcp:49673:7"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this I humbly give my thoughts. </p>
+            <p>
+               <hi>Firſt,</hi> This was a Viſion opened, of four Imperial States, (which God would Providentially raiſe in the World, ſucceſ<g ref="char:EOLhyphen"/>ſively one after another) and uſe at his pleaſure either to af<g ref="char:EOLhyphen"/>flict, <note place="margin">Dan. 4. 17.</note> or help his People, and one to deſtroy the other; but nei<g ref="char:EOLhyphen"/>ther this Propheſie, or any other Word of God ſpeaks their <hi>Ordination</hi> and <hi>Conſtitution</hi> of <hi>Governors, Magiſtrates,</hi> or <hi>Mi<g ref="char:EOLhyphen"/>ſters</hi> 
+               <note place="margin">Rom. 13. 3, 4. 1 Pet. 2. 13, 14.</note> 
+               <hi>of God, ſent for the good of his People; for the encouragement of godlineſs, and to be a terrour to evil-deers;</hi> (which are the great ends of <hi>Magiſtracy</hi> ordained by God) <hi>and wherein the Lords People are commanded ſubjection, for the Lords ſake.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Theſe Kings came ſucceſſively to their Kingdoms and Rule, by the power of the Sword, and Strength, (as was propheſied) but not by Power and Authority; and ſo accord<g ref="char:EOLhyphen"/>ingly were repreſented, by <hi>Monstrous Beaſts,</hi> and no Births of <note place="margin">Dan. 7. 4, to 8. and 8. 4, &amp;c.</note> Nature. All theſe Monſtrous States (or Kings) came ſucceſ<g ref="char:EOLhyphen"/>ſively to Rule (by Gods Providence) in their times, as they got power or ſtrength to Conquer. The King of <hi>Babylon</hi> Con<g ref="char:EOLhyphen"/>quered <note place="margin">2 King. 24. 1, 2, &amp;c. verſ. 10. and 25. 1, 2, &amp;c.</note> and Captivated the <hi>Jews</hi> for their ſin, by Power and Might, not by Authority or Right. By Gods providence a Thief, or Thieves, rob or kill the honeſt Traveller; <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> but not by Power of Authority, as having right to the Travellers mony and life by the Law of God: and in this way (like Beaſts of prey) one Kingdom or State ſubdued another, and ſo it is ſtill.</p>
+            <p>
+               <hi>Thirdly,</hi> Though <hi>Daniel</hi> ſaid to the King of <hi>Babylon, That God gave him a Kingdom, Power, and Strength;</hi> yet this was propheſied after he had taken <hi>Jeruſalem,</hi> and captived the <hi>Jews</hi> 
+               <note place="margin">Dan. 2. 37.</note> living; therefore this Commiſſion was not warrant for the former Cruelty.</p>
+            <p>
+               <hi>Fourthly,</hi> Not any of theſe Kings had the Eſſentials of Gods <hi>Magiſtrates,</hi> viz. <hi>As fearing God, as choſen out of themſelves, and</hi> 
+               <note place="margin">Exod. 18. 21. Deut. 1. 13. Rom. 13. 3, 4. 1 Pet. 2. 13, 14</note> 
+               <hi>inveſted with authority by them: nor ruling by Gods Laws, to en<g ref="char:EOLhyphen"/>courage godlineſs, and be a terror to evil-doers.</hi> Therefore upon theſe grounds, not any of the Heathen Kings were the <hi>Ordi<g ref="char:EOLhyphen"/>nance of God, to be obeyed by the Lords People for the Lords ſake.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But it is ſaid, <hi>That God brought upon Iſrael, the King of the Caldees: and God gave Jehoiakim, King of Judah into the hand of the King of Babylon,</hi> 2 Chron. 36. 17. Dan. 1. 1, 2.</p>
+            <pb n="14" facs="tcp:49673:8"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yes; God did ſo providentially, as a Curſe and Judgement to fulfil the Word of his threatnings upon their diſobedience, <note place="margin">2 Chr. 36. 14, 15, 16, 17. Iſa. 10. 5, &amp;c. 2 King. 24. 1, &amp;c. 8. 10, &amp;c.</note> ſtubbornneſs, and incorrigible rebellions againſt him: but not as his <hi>Miniſter, for their good;</hi> as a <hi>Magiſtrate</hi> ordained by God to rule and feed them. The Kings of <hi>Aſſyria</hi> and <hi>Ba<g ref="char:EOLhyphen"/>bylon, &amp;c.</hi> were ſuch powers of the Earth, or earthly powers, which God by his Almighty Power providentially uſed as his Creatures, to afflict, or relieve, to diſtreſs or ſave his Cove<g ref="char:EOLhyphen"/>nant-People, when he pleaſed; but not to rule and govern them under God, or for God, as his <hi>Magiſtrates</hi> ordained by him. God by his Almighty Soveraign power, and pleaſure, threatned the diſobedience of his people with many ſore judg<g ref="char:EOLhyphen"/>ments, <note place="margin">Ezek. 14, 12, 13 Deut. 28. 15, &amp;c.</note> and he uſed what Creatures he thought good to do it by, <hi>viz.</hi> Either noyſom Beaſts, Famine, Peſtilence or Sword. By Sword was meant the Sword of Kings or States, whom he providentially brought upon them; which Kings were only led by principles of Nature, and opportunities, and providences; when they knew not God, or his deſigns; and ſo they were <note place="margin">Iſa 10. 5, 6, 7. v. 12. to 19. Jer. 51. &amp; 52.</note> judged by God, and deſtroyed, for the miſery, deſolation and blood of the Lords People.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> Therefore theſe Heathen Kings, or Powers, were no other<g ref="char:EOLhyphen"/>wiſe the Ordinance of God, but as Locuſts, Famine, Peſti<g ref="char:EOLhyphen"/>lence, <hi>&amp;c.</hi> (or the Devil) are the Ordinance of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But God gave it in Charge to thoſe Jews who were carried Cap<g ref="char:EOLhyphen"/>tives to Babylon, to ſeek the peace of the City, and to pray unto the Lord for it: for in the peace thereof ye ſhall have peace,</hi> Jer. 29. 7.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This was the Lords Command to thoſe Captives: But, </p>
+            <p>
+               <hi>Firſt,</hi> That ſhort time of <hi>Iſraels</hi> Captivity was foreſhewed, and alſo by whom their Deliverance ſhould come, <hi>viz.</hi> by <hi>Cy<g ref="char:EOLhyphen"/>rus, Iſa.</hi> 44. 28. &amp; 45. 1, 2, &amp;c. <hi>Jer.</hi> 29. 10, 11.</p>
+            <p>
+               <hi>Secondly,</hi> Their Captivity was very eaſie; they had the <hi>Liberty of Conſcience</hi> in Religion; they had liberty to build Houſes, to plant Vineyards, and to eat the Fruit; to marry Wives, and to live in ſafety, therefore to ſeek the Peace of the place, but not of the King of <hi>Babylon.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> This command, <hi>To ſeek the Peace of the place,</hi> im<g ref="char:EOLhyphen"/>plies a Charge laid upon them, not to raiſe trouble by ſeeking their Deliverance (yet not to pray for the proſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ity of the
+<pb n="15" facs="tcp:49673:8"/> King, or the eſtabliſhment of that Kingdom) for God had de<g ref="char:EOLhyphen"/>clared <note place="margin">Iſa. 44. 28. and 45. 1, 2, 3, &amp;c. Dan. 5. 30, 31. Rev. 18 6, 7.</note> his determination to deſtroy <hi>Babylon,</hi> and in <hi>Babylons</hi> deſtruction their deliverance ſhould come. Therefore God uſed the King of <hi>Perſia</hi> to redeem <hi>Iſrael;</hi> but this is not the caſe of Chriſtians under <hi>Myſtery Babylon.</hi>
+            </p>
+            <p>
+               <hi>But Daniel and other Servants of the Lord ſerved the King of</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>Babylon, &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> They did ſo, as Captives taken by the Sword, and Violence; not as <hi>Magistrates</hi> or <hi>Miniſters of God to rule over them,</hi> for then they had had no cauſe to return to their own Country and Government. The Captive <hi>Jews</hi> under the King of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> and Captive Chriſtians under the <hi>Turk</hi> are one in Nature, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> but (I judge) that Chriſtians in <hi>Turkiſh</hi> ſlavery do not ſee themſelves bound (by the preceptive will of God) to abide in ſlavery, if by Gods providence a way be opened for their eſcape. The <hi>Jews,</hi> under the Government of Judges, were <note place="margin">Judg. 2. 11, 12 v. 14, 15, 16, &amp;c.</note> oft (providentially) given up by God into the hands of ſeveral Heathen Kings or States, for their great tranſgreſſions againſt God; and when they humbled themſelves before the Lord and repented, the Lord alſo providentially delivered them. But in the time of their Bondage, they looked not upon thoſe Tyrants as <hi>Gods Ordinance</hi> to rule over them, or as <hi>Magiſtrates</hi> they were bound to obey.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But Joſeph (the Huſband of Mary) obeyed the Edict of Aguſtus Caeſar, and went with Mary his Wife from Nazareth to Jeruſalem, to be taxed,</hi> Luke 2. 1, 2, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw: </seg>
+               </label> This act of <hi>Joſeph</hi> proves not <hi>Caeſar</hi> a Lawful Power, or Ma<g ref="char:EOLhyphen"/>giſtrate of God to rule over his people. For,</p>
+            <p>
+               <hi>Firſt,</hi> Every act of a good man is not therefore lawful be<g ref="char:EOLhyphen"/>cauſe a good man doth it: <hi>In many things we offend all,</hi> Jam. 3. 2.</p>
+            <p>
+               <hi>Secondly,</hi> Though <hi>Joſeph</hi> obeyed the Edict of the Emperor, yet no Text can be ſhewed, that he did it by the Command of God.</p>
+            <p>
+               <hi>Thirdly,</hi> Though <hi>Caeſar</hi> exacted a ſmal Tribute of the <hi>Jews,</hi> to ſhew that they were Captives, Conquered by the Sword, yet he left them free in Religion, and many outward Privi<g ref="char:EOLhyphen"/>ledges, which Antichriſt denies to Chriſtians, <hi>Mat.</hi> 27. 1, 2. <hi>John</hi> 18. 31.</p>
+            <pb n="16" facs="tcp:49673:9"/>
+            <p> 
+               <hi>Fourthly,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> The very Elect of God, and ſuch as are eternal<g ref="char:EOLhyphen"/>ly ſaved (by long bondage, and ignorance of their Priviledges, as Gods Children) may (by Tradition) give obedience to the Kings or States, (they lived or were born under) both in Civil things, and Spiritual Worſhip, and not know that they do evil; as <hi>Joſeph</hi> and all <hi>Iſrael</hi> in <hi>Egypt.</hi> As <hi>Joſeph</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> and other <hi>Jews</hi> in <hi>Canaan.</hi> And as many Chriſtian Martyrs have done under Antichriſtian Bondage and Tyranny, <hi>Gen.</hi> 42 15. <hi>Exod.</hi> 6. 9. <hi>Act.</hi> 7. 24, 25.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But Chriſt himſelf paid Tribute to Caeſar.</hi> 
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Chriſt did it to avoid offence or ſcandal, yet ſinned not in it; but he paid it not as to a lawful Magiſtrate, or Miniſter of <note place="margin">Mat. 17. 26, 27.</note> God, who had power over his Body. For,</p>
+            <p>
+               <hi>Firſt,</hi> Chriſt declared himſelf free.</p>
+            <p>
+               <hi>Secondly,</hi> Chriſt at that time was entred upon his Media<g ref="char:EOLhyphen"/>tory Offices; and had put out Royal Acts of Authority, as King over <hi>Jews</hi> and <hi>Gentiles, Mat.</hi> 3. 16, 17, &amp; 4. 18, 19, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Chriſt only paid that Tax for Himſelf and <hi>Peter,</hi> as perſons only concerned, and not for the reſt of his Diſciples.</p>
+            <p>
+               <hi>Fourthly,</hi> Chriſt did at that time, in that thing, give up or let go his own right, out of a gracious end and deſign, to pro<g ref="char:EOLhyphen"/>pagate the Goſpel; and that was lawful, or no ſin in him, which yet would be ſin in his Servants. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> It is lawful, and may be good in a Maſter (ſometimes) to give up or let go ſome<g ref="char:EOLhyphen"/>thing of his right, which is not lawful in a Servant to do.</p>
+            <p>
+               <hi>Fifthly,</hi> Dark Scriptures are to be expounded from the con<g ref="char:EOLhyphen"/>ſent and currant of Scriptures to make a harmony, that one text do not contradict another. But to bring this text, to prove hence, that <hi>Caeſar</hi> was a lawful Magiſtrate, and had Authority from God to tax Chriſt and his diſciples, contradicts the words of Chriſt. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> 
+               <hi>And hath given him Authority to execute Judgement alſo, becauſe he is the Son of Man. All Power is given unto me in Heaven and in Earth.</hi> John 5. 17. Mat. 28. 18. Eph. 1. 20, 21, 22, 23. with many other texts, and currant of Scriptures Old and New.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But we find the Apoſtle Paul approved, and appealed to Caeſars Authority, which was not only a bare ſubjection to, but an owning of that Power,</hi> Act. 25. 10, 11.</p>
+            <pb n="17" facs="tcp:49673:9"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Suppoſe <hi>Paul</hi> did ſo, yet it is to be queſtioned, Whether <hi>Paul</hi> did that by a Command from God, or Chriſt? It is Di<g ref="char:EOLhyphen"/>vine <note place="margin">1 Cor. 11. 1. 8. 23.</note> Authority which makes the Acts of the Apoſtles lawful, and imitable for Saints. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> The failings of the Lords Worthies were not written for imitation, but for caution, and conſola<g ref="char:EOLhyphen"/>tion <note place="margin">1 Cor. 10. 6, 11 Gal. 2. 11, 12, &amp;c.</note> in failings. <hi>Peter</hi> and <hi>Paul</hi> were chief Apoſtles of Chriſt, and yet had the infirmities of men. And as <hi>Paul</hi> blamed <hi>Peter</hi> in ſome things, no doubt but <hi>Peter</hi> alſo might have blamed <hi>Paul</hi> in ſome things, had he lived and travelled with <hi>Paul. Paul</hi> himſelf is much in confeſſion of his humane frailties, and <note place="margin">Rom. 7. 14, 15, &amp;c, Act. 22. 24, 25, 26. &amp; 23. 35. &amp; 24. 26, 27. &amp; 25 1, 2, 3, 8, 10, 11.</note> infirmities, through corruption and temptation. And it is clear, that <hi>Pauls</hi> appealing to <hi>Caeſar</hi> at <hi>Rome,</hi> was in deſign to deliver himſelf, and ſave his Life from the <hi>Jews,</hi> and that Ju<g ref="char:EOLhyphen"/>dicature at <hi>Jeruſalem,</hi> where he was ſurprized and kept by vi<g ref="char:EOLhyphen"/>olence of arms (which hath been the caſe of many of the Lords people) and not that <hi>Paul</hi> approved, or owned <hi>Caeſar,</hi> as ha<g ref="char:EOLhyphen"/>ving Divine Authority or Juriſdiction over his Body; <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> but by that appeal, (providentially) <hi>Paul</hi> had his Liberty. And we do not read that ever he was brought to further tryal at <hi>Rome.</hi> This <hi>Paul</hi> the Apoſtle of the <hi>Gentiles,</hi> did yet Circumciſe <hi>Ti<g ref="char:EOLhyphen"/>mothy;</hi> 
+               <note place="margin">Rom. 11. 13. Act. 16 8.</note> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> and alſo, to ſave himſelf from the <hi>Jews</hi> rage (fell into <hi>Peters</hi> tranſgreſſion, which he accuſed him for) who were ſet againſt him for preaching down the Ceremonial Law, and Cir<g ref="char:EOLhyphen"/>cumciſion; <hi>Paul</hi> did yet pretend himſelf (as a <hi>Jew,</hi> under the Law, and under a Vow) and after the manner of the Law purified himſelf, and went into the Temple; To ſignifie the <note place="margin">Act. 21. 23, 24. &amp;c.</note> accompliſhment of the dayes of Purification, until that an Of<g ref="char:EOLhyphen"/>fering ſhould be made. Theſe acts were not lawful in <hi>Paul</hi> an Apoſtle, nor imitable for the Saints now, though done by an Apoſtle; but how far God may wink at theſe, and the like weakneſſes in his People, I will not judge. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But it is ſaid, that Paul wrote to the Saints at Rome, to ſubject to the Emperors of Rome though Beaſts and Tyrants, ſaying, Let eve<g ref="char:EOLhyphen"/>ry ſoul be ſubject to the higher Powers, for there is no power but of</hi> 
+               <note place="margin">Rom. 13. 1.</note> 
+               <hi>God: the powers that be, are ordained</hi> (or ordered) <hi>of God.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <hi>Firſt,</hi> The Apoſtle in this place ſpeaks clearly of Saints ſub<g ref="char:EOLhyphen"/>jection to Magiſtracy, or to Magiſtrates as <hi>Ordained by God;</hi> and Miniſters of State, ſent by God, for the good of his Peo<g ref="char:EOLhyphen"/>ple; and not of the <hi>Caeſars</hi> then Tyrannizing over the Lords
+<pb n="18" facs="tcp:49673:10"/> heritage, at that time (I judge) that the right of Civil Go<g ref="char:EOLhyphen"/>vernment <note place="margin">1 Cor. 6. 1, 2, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> over the Saints was in themſelves, though they had not the power of ſtrength to put out all Acts. Thus it was with the <hi>Jews</hi> in <hi>Babylon,</hi> under the <hi>Romans,</hi> &amp;c. The <hi>Jews</hi> as Gods Covenant-people, had right to the exerciſe of all Civil Juriſ<g ref="char:EOLhyphen"/>diction <note place="margin">Gen. 49. 10. Deut. 1. 9, 13. and 16. 18, &amp;c. Deut. 28. 25, 47, 48, &amp;c.</note> amongſt themſelves by Gods appointment: But as a Curſe and Puniſhment of their ſins, the exerciſe of that Power and Authority was, (by Gods permiſſion) taken from them by the force and power of Enemies, eſpecially to ſome <note place="margin">Joh. 18. 31.</note> acts of Juriſdiction. Thus it was with the Chriſtians; Chriſt left Authority with his own ſervants (in all things without exception) amongſt themſelves; and the Saints were in the <note place="margin">Mar. 13. 34. Mat. 25. 14. 1 Cor. 6. 1, &amp;c.</note> exerciſe of that Authority in Civil affairs, though debarred the publick exerciſe of ſome acts, or all acts, by the Armies or Strength of Heathen Kings. And becauſe the Churches, or Saints had not then power or ſtrength to execute ſome Laws on offen<g ref="char:EOLhyphen"/>ders, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> the Apoſtle preſt the Saints to ſubjection (as of duty) to thoſe Civil Rulers, or Magiſtrates they had amongſt them<g ref="char:EOLhyphen"/>ſelves, as <hi>Gods Ordinance, to be obeyed for the Lords ſake, and Conſcience ſake,</hi> as commanded by God.</p>
+            <p>
+               <hi>Secondly,</hi> It is evident (both from the riſe, and exerciſe of power in Heathen Kings) that they were not ordained by God <note place="margin">Dan. 7<g ref="char:punc">▪</g> 2, 3, &amp;c. 2 Chr. 36. 17, &amp;c. Iſa. 10 5, 6, &amp;c. and 42. 24, 25. Ezek. 34. 23, 24.</note> to rule over his People under him, neither had they power and authority to govern from God; but only power and ſtrength to burn, deſtroy, kill and captive the Lords People rebelling againſt him; and ſo called, <hi>Gods Staffe, Hammer, Saw,</hi> &amp;c. not <hi>Fathers, Shepherds,</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But Paul exhorted Timothy, That ſupplications, and prayers ſhould be made for all men; for Kings, and all that are in Autho<g ref="char:EOLhyphen"/>rity,</hi> (or eminent place) <hi>that we may lead a quiet and peaceable</hi> 
+               <note place="margin">1 Tim. 2. 1, 2.</note> 
+               <hi>Life.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <hi>Firſt,</hi> If by Kings, we underſtand the then Heathen Kings, <hi>Paul</hi> may be underſtood to enjoyn the Saints, to pray either for the converſion of their ſouls, or reſtraint of their power, that the Saints Peace and Godlineſs were not hindred, <hi>viz.</hi> That God would not ſuffer thoſe heathen Kings to put out their power and ſtrength to perſecute, or hinder the Saints Peace, Liberty, and Holineſs: But this text aſſerts not the <hi>Divine Authority of heathen Kings to govern the Lords People,</hi> or <hi>Saints to ſubject to them.</hi>
+            </p>
+            <pb n="19" facs="tcp:49673:10"/>
+            <p> 
+               <hi>Secondly,</hi> If the Apoſtle be taken as referring to any time, when a Magiſtrate (called King) ſhall be called to rule over the Lords people in Authority (or eminent place of Truſt) as <hi>appointed and ordained by God;</hi> then it will be the duty of Saints to pray for ſuch Magiſtrates, <hi>That their Rule and Government may anſwer the end of their Power and Truſt,</hi> as Ordained by <note place="margin">Rom. 13. 3, 4, &amp;c. 1 Pet. 2. 13, 14</note> God, <hi>viz. Saints Peace and Holineſs.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But the Apoſtle Peter alſo gave this in charge to Saints; Sub<g ref="char:EOLhyphen"/>mit your ſelves to every Ordinance of man for the Lords ſake: whe<g ref="char:EOLhyphen"/>ther it be to the King as Supream, or unto Governours (as to them that are ſent by him) for the puniſhment of evil-doers, and for the praiſe of them that do well,</hi> 1 Pet. 2. 13, 14.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <hi>First.</hi> In this the Apoſtle is clear, that he preſſeth Saints <hi>Subjection to Kings</hi> or <hi>Governours,</hi> as <hi>called or ſent of God, <label type="milestone">
+                     <seg type="milestoneunit">Note. </seg>
+                  </label> for the puniſhment of evil doers and for the praiſe</hi> (and encouragement) <hi>of them that do well.</hi> This is the currant of Scripture.</p>
+            <p>
+               <hi>Secondly,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> The Apoſtle preſſeth <hi>Saints Subjection to Kings, or Governours</hi> (as the Ordinance of Man, or as Mans appoint<g ref="char:EOLhyphen"/>ment in the State) when they anſwer the ends of Civil Go<g ref="char:EOLhyphen"/>vernment, as <hi>Ordained by God.</hi> If we ſhould take the Apoſtle exhorting Saints, <hi>To ſubject to every Law and Ordinance of man (for the Lords ſake)</hi> then the Laws of Men ſhould be obeyed by Saints, how unjuſt, unnatural, or contrary ſoever they were to the Laws of God; but this is too groſs, and contrary to the currant of Scripture, not anſwering the ends of <hi>Government, as Ordained by God.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> If we take the Apoſtle, ſpeaking of Kings, or Go<g ref="char:EOLhyphen"/>vernours, as the Ordinance of Man; then the title <hi>King,</hi> or <hi>Power of Kings,</hi> is only humane; and God hath left it in the wiſdom, power, and will of a State, or Body Politick, to call to Office and Power, one Perſon, or a ſet number of Perſons joyntly, to rule over them, as they judge beſt for the whole; <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> and alſo to dignifie and diſtinguiſh their Officers of State as they pleaſe; and Saints are not hereby to be diſpleaſed, but muſt <hi>ſubmit, for the Lords ſake.</hi>
+            </p>
+            <p>I am humbly bold thus to give my ſence; That both <hi>Paul,</hi> in <hi>Rom,</hi> 13. 1. and in his other Epiſtles, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> as alſo <hi>Peter</hi> in this text, had no reſpect to the Heathen Kings of that time; but that both theſe Apoſtles do aſſert <hi>Magistracy to be the Ordinance</hi>
+               <pb n="20" facs="tcp:49673:11"/> 
+               <hi>of God,</hi> amongſt his People, <hi>To ſuppreſs evil-doers, and to en<g ref="char:EOLhyphen"/>courage them that do well,</hi> Rom. 13. 3, 4. to which Magiſtrates the Saints owe <hi>ſubjection, for the Lords ſake.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> This Apoſtle <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> alſo implieth, That the deſignation of Magiſterial Autho<g ref="char:EOLhyphen"/>rity, upon one perſon, or upon ſeveral perſons (with the Names and Titles by which they are called or dignified) are humane, and left to men; and therefore Saints ſhould not deny ſub<g ref="char:EOLhyphen"/>jection upon that account.</p>
+            <p>In the firſt conſtitution of the Jewiſh Polittick State, God gave them Judges about the ſpace of 450 years; after which <note place="margin">Deut. 16. 18, Act. 13. 20, 21, &amp;c. 1 Sam. 8. 1, 2, &amp;c. v. 19, 22.</note> (upon the ill government of <hi>Samuels</hi> Sons) <hi>Iſrael</hi> reſolved to change the Government, from Judge, to King, and God gave way to them. But as God fore-ſaw that <hi>Iſrael</hi> would change the Government of State (in which his ſecret counſel was fulfilled, to bring in <hi>Davids</hi> Kingdom, and make way for Chriſts Kingdom) God enjoyned and commanded <hi>Iſrael,</hi> that <note place="margin">Deut. 17. 14,</note> Kings ſhould rule by the ſame Laws which he gave to the Judges. The Apoſtle <hi>Peter</hi> then ſeeing (or ſuppoſing that in after-time) ſome difference might ariſe amongſt Saints about Political Government, or Governours, <hi>viz.</hi> Whether the chief ſhould be in one Perſon, or in many; and by what names they ſhould be dignified; <hi>Peter</hi> inferrs, that this is in man to order, ordain, and appoint; and therefore exhorts Saints, not <note place="margin">The Body or State Pol<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ick are the firſt Seat of Power <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </note> to differ, or diſſent from what the Body of the People, or State ordain and appoint in that matter, ſo as the Governours do anſwer the ends of Government, as ordained by God.</p>
+            <p>I muſt ſay, I know not that this was queſtioned by Saints in <hi>Peters</hi> time; <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> but it may be a queſtion amongſt Saints in the Reſurrection of the Witneſſes; and here is the Solution, which is not again found in all the Scriptures. And let me add theſe my thoughts, That as Gods moral, judicial Laws (given to <hi>Iſrael)</hi> are the Laws of Chriſts Kingdom, Chriſt ratified and confirmed them in his Miniſtry; and the Apoſtles gave many general directions to Saints about Political Government and Governours, as <hi>Ordained by God;</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> but neither expreſt, or in<g ref="char:EOLhyphen"/>tended the then Heathen Kings in thoſe directions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But Rulers and Governours were commonly called Gods, and it is not likely that they ſhould be ſo dignified by holy men, if they were not ordained by God, and bare upon them ſome Image or Beam of Di<g ref="char:EOLhyphen"/>vine Soveraignty.</hi>
+            </p>
+            <pb n="21" facs="tcp:49673:11"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> We may grant, that this high Title was aſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibed to Rulers and Governours, by <hi>David,</hi> by <hi>Chriſt,</hi> and by <hi>Paul,</hi> referring <note place="margin">Exod. 22. 28. Pſal. 82. 1, 6. John. 10. 34. Act. 23. 4, 5.</note> to <hi>Moſes</hi> Law; but ever, and only to <hi>Magistrates,</hi> in the Jewiſh State, <hi>as Ordained and Conſtituted by God.</hi> If there can be any one Scripture produced to the contrary, let it be urged.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But in Scripture, the Heathen or Pagan Governours were com<g ref="char:EOLhyphen"/>monly called Magiſtrates, which name or appellation of State Offi<g ref="char:EOLhyphen"/>cers was given to the Jewiſh Judges and Governours; which implies, That heathen Governours were Ordained by God.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <hi>First,</hi> The Title <hi>Magistrate, Ruler,</hi> or <hi>Governour,</hi> are terms equivolent to Officers in the Civil State, as <hi>Biſhop, Elder,</hi> and <note place="margin">Judg. 18. 7. Ezra. 7. 25. Deut. 16. 18; &amp;c.</note> 
+               <hi>Paſtor</hi> are in the Church-State. Where the Title, or Appella<g ref="char:EOLhyphen"/>tion of <hi>Ruler, Governour,</hi> or <hi>Magistrate,</hi> is given to Officers in the <hi>Jews</hi> Politick State, it is given to them, as ſuch as were <hi>ſo Ordained and Appointed of God;</hi> but there is not one Text can be ſhewed in all the Old Teſtament, where any of the Lords People gave the Title of <hi>Magiſtrate</hi> to <hi>Heathens.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Such as had <hi>Magisterial Rule</hi> and <hi>Government</hi> a<g ref="char:EOLhyphen"/>mong the <hi>Heathens,</hi> were <hi>Magiſtrates</hi> to them (or in the place <note place="margin">Act. 16. 20, 22, 35, 36, &amp;c.</note> of <hi>Magiſtrates)</hi> and therefore ſo owned and diſtinguiſhed with <hi>Heathens;</hi> but I read not that ever Chriſt, or the Apoſtles dig<g ref="char:EOLhyphen"/>nified any <hi>Heathens</hi> with the Title <hi>Magiſtrate;</hi> Yet if they had, that clears not the matter; for as it is common in <hi>Heathen</hi> and <hi>Antichriſtian States</hi> to take the Names of Offices and Officers, from the pattern and example of the <hi>Jewiſh,</hi> or <hi>Christian</hi> State; yet that makes them not to be the <hi>Ordinance of God,</hi> by having the Name, and not the Thing. It is poſſible for a Cheat to counterfeit Letters Pattents, or Letters Teſtimonial to crave the charitable benevolence of good People, in one or in many Countries, as a <hi>Perſon of Eſtate, Credit, or Uſefulneſs in the time of his Proſperity, but is fallen into decay and poverty, by Fire, great Loſſes at Sea,</hi> &amp;c. many of theſe Cheats have gone on long in their wickedneſs, and have been much pittied and relieved by Charitable People; but as theſe Cheats have been diſcovered, and their villanies manifeſt, thoſe ſober People who before pittied and ſupplied them in their ignorance, will after turn to hate ſuch wretches, and ſeek to bring them to due puniſhment, anſwering their demerit. Thus the Antichriſtian Kings and <note place="margin">2 Theſ. 2. 3, 4, 7, 9, 10.</note>
+               <pb n="22" facs="tcp:49673:12"/> States have played the grand Cheats of the World, and have <note place="margin">Rev. 13. 2. and 17. 1, 2, 3, 4, &amp;c. and 18. 2, 3, 7.</note> feigned their Miſſions, and Commiſſions, and Succeſſions to to be ſigned and ſealed by God, when they were from the De<g ref="char:EOLhyphen"/>vil; and they tell the People of their uſefulneſs, and neceſſity of their Government, to enlarge and ſupport Kingdoms in Wealth, Peace, Riches, and Honour, <hi>&amp;c.</hi> But all is to ſub<g ref="char:EOLhyphen"/>ject the People to their Luſts, and mainly to ſupport their Pride, Luxury, and Domination in the World. This vile hy<g ref="char:EOLhyphen"/>pocriſie cannot be charged upon the Heathen, or Pagan Kings, for as they knew not God, nor ever received the holy Scrip<g ref="char:EOLhyphen"/>tures, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> and Laws of God, they neither claimed, or held their Crowns by Divine Right from God, But attributed all their Victorious Succeſſes of War and Conqueſt over Countrys or Kingdoms, to their Wiſdom, Courage, Strength and the Fa<g ref="char:EOLhyphen"/>vour of their Gods, to whom they ſacrificed freely. But the Names of Blaſphemy are upon the Antichriſtian Beaſt<g ref="char:EOLhyphen"/>ly State, which now reigns in the Chriſtian World, as they aſ<g ref="char:EOLhyphen"/>ſume the ſacred Titles and Supremacy of God Almighty, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> pro<g ref="char:EOLhyphen"/>per only to the Father, and his Son Jeſus the Chriſt. Thus the Antichriſtian States have long gone for, and been ſubject<g ref="char:EOLhyphen"/>ed to (by ſimple Profeſſors) for Gods Ordinance, and Gods Miniſtry ſent by him. But when theſe great cheats of the world ſhall be diſcovered to be Hell-born-brats from the bot<g ref="char:EOLhyphen"/>tomleſs pit of deep counſels, acted in the Spirit and power of the Devil, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> 
+               <hi>Thoſe very Nations and People, who bowed to the Beaſt, and committed fornication with that Scarlet Whore, will hate the Whore, and make her deſolate and naked, and will eat her fleſh, and burn her with fire.</hi> Rev. 13. 1, 5, 6, &amp; 17. 3. Rev. 11. 7. &amp; 12. 9. &amp; 13. 2. &amp; 17. 16.</p>
+            <p>There are ſome few other Texts urged, to prove <hi>Saints ſub<g ref="char:EOLhyphen"/>jection to Heathen Kings (in Civil things)</hi> although they were <hi>Tyrants,</hi> but theſe which I have ſpoken to are the chief; <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> and if the Tree be digged up by the Roots, the Branches will fall with the Body. There is yet no Scripture urged to prove <hi>the Ordi<g ref="char:EOLhyphen"/>nation of Pagan Kings, to be Magiſtrates of God, appointed to go<g ref="char:EOLhyphen"/>vern his People;</hi> But the force of the beſt Arguments lye in ſuppoſed Examples, and miſtaken Scriptures, (as I humbly judge) of ſome Apoſtolick Precepts. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> But if the Lords Ser<g ref="char:EOLhyphen"/>vants did thorowly conſider, That a Politick State is the firſt <note place="margin">Deu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1 9, 13, 14, and 16. 18. and 17. 14, 15, &amp;c. 2 Sam. 2. 3. &amp; 5. 3. 1 Sam. 8. 1, &amp;c.</note>
+               <pb n="23" facs="tcp:49673:12"/> Seat of Power Adminiſterial, (and only Miniſterial) and no abſolute Monarchs of Gods ordaining) they muſt alſo ſee, that evil Governours are the Effect of Power neglected, or abuſed in the firſt Seat of Power.</p>
+            <p>It is poſſible for Kings, or Governours, who were rightly called or inveſted with Miniſterial Authority, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> to fall from their Truſt and become Tyrants. Of theſe the Scriptures give example. This is a caſe different from that which I have ſpo<g ref="char:EOLhyphen"/>ken to; but if my judgement were deſired in this point, I ſhould thus give my underſtanding. <hi>That Tyrants (in this last ſence) are not to be obeyed as Magiſtrates and Miniſters of God up<g ref="char:EOLhyphen"/>on theſe two grounds.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> As they anſwer not the ends of Political Govern<g ref="char:EOLhyphen"/>ment, as Ordained by God.</p>
+            <p>
+               <hi>Secondly,</hi> As Governours (by Gods Appointment) are un<g ref="char:EOLhyphen"/>der <note place="margin">2 Sam. 2. 4 and 5. 3.</note> Laws, Articles, and Covenants, with the People, who call them to Office and Authority; therefore if Governours break Covenant with the People, they break the bond of Re<g ref="char:EOLhyphen"/>lation, and the People are diſingaged, on their part from Sub<g ref="char:EOLhyphen"/>jection. <note place="margin">1 King. 12. 1, &amp;c. Ezek. 16. 38.</note> That a People Oppoſing or Depoſing a wicked or op<g ref="char:EOLhyphen"/>preſſing King or Ruler, is no Oppoſition to Magiſtracy, for they own and honour <hi>Magiſtracy</hi> as <hi>Gods Ordinance,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> when they ſeek to depreſs or remove a wicked man in the place of a Ma<g ref="char:EOLhyphen"/>giſtrate.</p>
+            <p>But ſome again ſuppoſe, <hi>That Heathen Kings were Lawful Magiſtrates and Gods Ordinance, until the riſe of Antichriſt, and ſince that time the Saints do owe no ſubjection to Antichriſt in his Political or Eccleſiaſtical State; or to the Ten Kings.</hi>
+            </p>
+            <p>This Aſſertion (in this latter State) is my Judgement; but I confeſſe, I know not how this can be maintained by Scripture-Warrant, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> but by granting Chriſt to be preinveſted with all Royal Authority Civil and Spiritual (as <hi>Mediator)</hi> before Antichriſt aroſe. I know not any Scripture which hints the Deputation and Inveſtment of Chriſt into this Royal So<g ref="char:EOLhyphen"/>veraignty, at, or upon the riſe of Antichriſt, but what was in him long before. And if Chriſt was inveſted by the Father <note place="margin">Mat. 28. 18. Eph. 1. 20, 21, &amp;c.</note> 
+               <hi>with all Power in Heaven and Earth,</hi> Then the <hi>Heathen Kings</hi> from Chriſts time to the riſe of Antichriſt, were <hi>Uſurpers,</hi> and not <hi>the Ordinance of God, to be obeyed by Saints in Civil things.</hi>
+            </p>
+            <pb n="24" facs="tcp:49673:13"/>
+            <p> But it is your thoughts (as I take it) that Antichriſt (in his Civil State) is the Ordinance of God Magiſterial, and to be obeyed by the Lords People in Civil things, as derived from the Heathen Magiſtratical <hi>Power,</hi> or from the <hi>Roman</hi> State. Your words are theſe.</p>
+            <p>
+               <hi>I take the Dragon to be the Old Pagan Empire, as it was acted by Satan in advancing Idolatrous Worſhip. And by the Beaſt I mean the Roman Empire, as Antichriſtian, or rather Antichriſt agita<g ref="char:EOLhyphen"/>ted by Satan in advancing Idolatry and Superſtition under other Names: And therefore if it were not a ſin in the one, to yeeld obe<g ref="char:EOLhyphen"/>dience; I do not ſee how it ſhould be ſin in the other, ſince Satan act<g ref="char:EOLhyphen"/>ed both.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reply. </seg>
+               </label> To this I make my humble Reply. </p>
+            <p>
+               <hi>Firſt,</hi> I am not yet convinced from Scripture or Argument, That any Heathen Emperors or Kings were Ordained by God, to Rule and Govern his People from him as his Magiſtrates or Miniſters of State, who were acted and influenced by the De<g ref="char:EOLhyphen"/>vil, and anſwered not the ends of Magiſtracy, as Ordained by God.</p>
+            <p>
+               <hi>Secondly,</hi> It is my underſtanding, That upon Chriſts Bap<g ref="char:EOLhyphen"/>tiſme, he entered upon his Mediatorſhip, and upon all his Me<g ref="char:EOLhyphen"/>diatory <note place="margin">Mat. 3. 16, 17. John 1. 41.</note> Offices actually, and viſibly in the World; and that all Diſciples believing and viſibly cloſing with Chriſt as Me<g ref="char:EOLhyphen"/>diator, Prophet, Prieſt, and King, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> were actually diſmiſt, and diſ-ingaged from the Curſe and Bondage of that Heathen Yoke, which was brought upon Gods Covenant-People, for <note place="margin">Iſa. 10. 27. John. 1. 41, 45.</note> their Rebellions againſt God, his Laws, and Government.</p>
+            <p>
+               <hi>Thirdly,</hi> I can eaſily grant, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> That the ſame Satan acted the <hi>Pagan Empire</hi> and <hi>Antichriſt;</hi> and alſo that the <hi>Dragon,</hi> or <hi>Pagan Empire</hi> gave to the Beaſt <hi>Antichriſt,</hi> his Power, his <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev. 13. 2</note> Seat, and great Authority, <hi>viz.</hi> All that Power and Authori<g ref="char:EOLhyphen"/>ty in the <hi>Roman</hi> or <hi>Weſtern Empire,</hi> which reſted in the <hi>Dragon</hi> or the <hi>Devil</hi> to give. And this Power and Authority is all which the Beaſt <hi>Antichriſt</hi> ever had. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> But it is not proved that God ever gave unto the <hi>Devil</hi> ſuch Power, or inveſted the <hi>Pa<g ref="char:EOLhyphen"/>gan Empire,</hi> either with the power of Government in that Em<g ref="char:EOLhyphen"/>pire, or with Power and Authority, to Inveſt and Inſtal ano<g ref="char:EOLhyphen"/>ther State to Rule as Gods <hi>Miniſters.</hi> And it is my Judge<g ref="char:EOLhyphen"/>ment, that neither the <hi>Dragon</hi> had Power of Authority from
+<pb n="25" facs="tcp:49673:13"/> God to conſtitute a New State, or to divolve <hi>Civil Power and Authority Magiſterial (as Gods Ordinance) upon the Beaſt Anti<g ref="char:EOLhyphen"/>chriſt;</hi> or that Chriſtian Believers are bound (from God) to receive and obey <hi>Antichriſts Commands in Civil things,</hi> becauſe the <hi>Dragon</hi> gave him his Power.</p>
+            <p>I humbly judge, That your Inference cannot be binding to the Lords People, until theſe two things be proved.</p>
+            <p>Firſt, <hi>That the Heathen Dragonical State was the Ordinance of God, intruſted with Supream Authority Royal, in all the World, as Lord and Law-giver.</hi>
+            </p>
+            <p>Secondly, <hi>That the Dragonical State, or Power, was Inveſted, and Intruſted by God, to conſtitute another Supream Royal State, Civil in the World.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> Acts of Royalty put out, proves not the Authority to be from God; but it is ground of ſtrong ſuſpicion (if not of de<g ref="char:EOLhyphen"/>monſtration) That the <hi>Power</hi> and <hi>Authority</hi> which is acted <note place="margin">Iſa. 10. 5, &amp;c. 2 King. 24. 1, 2, &amp;c. 2 Theſ. 2. 10, 11.</note> and influenced from the Devil, is not of Gods appointing or ordaining; but only by Gods permiſſion and ſuffering in his juſt Judgements. And to this I may add, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> That throughout the Books of the Prophets and Apoſtles, <hi>Old Babylon,</hi> and <hi>Myſtery Babylon,</hi> are declared the Objects, and Subjects of Divine Wrath and Vengeance, and therefore not the Ordinance of God, as moſtly taken to be Divine. I can grant (that by cor<g ref="char:EOLhyphen"/>ruption) evil and vile men may get in, and be in power of Go<g ref="char:EOLhyphen"/>vernment, <note place="margin">Pſal. 12. 8 Hoſ. 5. 1. and 8. 4. Iſa. 3. 1, 4.</note> which is appointed by God, the which God doth not approve; but threatens, and judgeth where ſuch offences are committed and not reformed. Now this is the evil of Per<g ref="char:EOLhyphen"/>ſons, and not the evil of Government, as ordained by God. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> And in that caſe, the Lord by his righteous Judgments may, and doth puniſh a Nation, both with, and for wicked Kings and Rulers. God alſo preceptively, and providentially removed evil Kings and Rulers, in <hi>Iſrael</hi> and <hi>Judah,</hi> yet ſtill continu<g ref="char:EOLhyphen"/>ed <hi>Magiſtracy</hi> as his Ordinance; but both <hi>Babylon Litterally,</hi> 
+               <note place="margin">Iſa. 1. 24, 25, 26.</note> and <hi>Babylon Myſtically</hi> (in their Civil and Eccleſiſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ical States, ſhall be perfectly deſtroyed, which is yet remaining) and there<g ref="char:EOLhyphen"/>fore <note place="margin">Jer. 25. 12, 13. Rev. 18. 21, &amp;c</note> neither the <hi>Dragon,</hi> or <hi>Antichriſt,</hi> are <hi>Magiſtrates,</hi> or <hi>Magiſtracy,</hi> as <hi>Gods Ordinance.</hi>
+            </p>
+            <p>As for thoſe Inferences, or Arguments drawn from <hi>Pauls</hi> practice, and from <hi>Peter</hi> and <hi>Pauls</hi> Writings to Saints or
+<pb n="26" facs="tcp:49673:14"/> Churches, I have given my underſtanding in them, and ſo paſs them; but to what I have ſaid, I humbly crave leave to offer my thoughts in theſe Particulars following.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Particu. </seg>1</label> 
+               <hi>Firſt,</hi> I ſee it not clearly proved, <hi>That the Pagan Roman Caeſars are ſignified by the Dragon,</hi> Rev. 12. 3, 4, &amp;c. <hi>but that the Dragon may rather repreſent Antichriſt:</hi> for two Reaſons.</p>
+            <p>Firſt, <hi>The Man of Sin, Antichriſt, ſits in the Temple of God,</hi> 1 Theſ. 2. 4. <hi>And this Dragon appeared in Heaven,</hi> Rev. 12. 3. viz. <hi>in the viſible Church:</hi> which the <hi>Pagan Caeſars</hi> did not.</p>
+            <p>Secondly, <hi>This Dragon drave the Woman into the Wilderneſs</hi> 1260 <hi>dayes, the ſame time with the Witneſſes propheſying in ſack<g ref="char:EOLhyphen"/>cloth,</hi> 
+               <note place="margin">Rev 12 6. and 11. 2, 3. &amp; 13. 5</note> 
+               <hi>and one ſtate of time with Antichriſts Reign.</hi> Therefore the <hi>Dragon</hi> muſt ſignifie Antichriſt, or the Antichriſtian State, and not the <hi>Pagan Roman</hi> State. For, if we take the <hi>Dragon</hi> for the <hi>Pagan Empire,</hi> then the <hi>Pagan</hi> Perſecutions are included in the Antichriſtian Perſecution of 1260 days; or elſe <hi>John</hi> only hints the <hi>Pagan</hi> Perſecutions, and then falls into, and ſtates the Antichriſtian Perſecution, 1260 dayes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Particu. </seg>2</label> 
+               <hi>Secondly,</hi> It is not clear, <hi>That the Beaſt ariſing out of the Sea,</hi> Rev. 13. 1, <hi>&amp;c.</hi> and <hi>Daniels fourth Beast,</hi> are one <hi>Beaſt,</hi> and <note place="margin">Rev. 13. 1. Dan. 7. 7. 2 Theſ. 2 7. Rev. 17 18.</note> both repreſenting the <hi>Roman Empire:</hi> I humbly judge, That upon the fall of <hi>Daniels fourth Beaſt, the Beaſt with ten Horns Crowned</hi> then aroſe, <hi>over whom the Woman reigns;</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> and ſo is the Kingdom of the <hi>Beaſt Antichrist,</hi> as they are profeſſed Chriſti<g ref="char:EOLhyphen"/>an <note place="margin">1 Joh. 2. 22. 2 Theſ. 2 7.</note> States, and yet oppoſe and deny the Fathers, and the Sons Soveraignty. <hi>Paul</hi> infers that the <hi>Pagan Empire</hi> ceaſed, or was taken away when Antichriſt aroſe, and every of the <hi>ten horns,</hi> or <hi>kingdoms,</hi> as they put on Crowns, they became en<g ref="char:EOLhyphen"/>tire and diſtinct Monarchies. So <hi>Daniel</hi> makes the <hi>little horn,</hi> 
+               <note place="margin">Dan. 7. 8.</note> Antichriſt, to be another, or diſtinct ſupernumerary <hi>horn</hi> to the <hi>ten horns</hi> of the <hi>Roman Beaſt; three of which ten horns, this little horn plucked up. Johns Viſion of the Beast with ten horns crowned, upon whom the Woman ſits,</hi> I take to be a more ample <note place="margin">Rev. 13. 1. Rev. 17. 3, 18.</note> and full diſcription of the Antichriſtian State in general; but neither <hi>Daniel,</hi> or <hi>John</hi> make God the Appointer or Ordainer of either of thoſe States, as <hi>Pagan,</hi> or Antichriſtian; neither do I ſee, but when the <hi>Beaſt Antichriſt had driven the Church into</hi> 
+               <note place="margin">Rev. 12. 6, 7.</note> 
+               <hi>the Wilderneſs,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> the Chriſtian Church in the Wilderneſs became as diſtinct and free a State from Antichriſt, as <hi>Iſrael</hi> was from <hi>Egypt,</hi> when they were in the Wilderneſs.</p>
+            <pb n="27" facs="tcp:49673:14"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Partic. </seg>3</label> 
+               <hi>Thirdly,</hi> I am greatly perſwaded, the <hi>Beaſt, Rev.</hi> 13. 11, <hi>&amp;c.</hi> is the <hi>Beast aſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ending out of the bottomleſs pit, Rev.</hi> 11. 7. and is a diſtinct <hi>Beaſt</hi> from that <hi>Rev.</hi> 13. 1, <hi>&amp;c.</hi> though the latter Beaſt poſſeſs one of the <hi>ten horns,</hi> or <hi>kingdoms</hi> of the <hi>Pa<g ref="char:EOLhyphen"/>gan Empire.</hi> That Beaſt which aſcends out of the bottomleſs pit, and kills the Witneſſes, poſſeſſeth or reigns over the great and chief Street of <hi>Myſtery Babylon, ſpiritually called Sodom, and</hi> 
+               <note place="margin">Rev. 11. 7, 8.</note> 
+               <hi>Egypt,</hi> or one <hi>horn</hi> and <hi>kingdom of the Beaſt;</hi> which Beaſt is more fully deſcribed, <hi>Rev.</hi> 13. 11, 12, <hi>&amp;c.</hi> All the <hi>ten horns</hi> of the great Beaſt, or the ten ſtreets of <hi>Babylon</hi> as a City, were un<g ref="char:EOLhyphen"/>der the Whore; and that Woman reigned over the whole im<g ref="char:EOLhyphen"/>mediately, <note place="margin">Rev. 17. 3, 18.</note> for the moſt part of the 1260 dayes. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> But this Beaſt <hi>verſ.</hi> 11. the Holy Ghoſt deſcribes to be another Beaſt, diſtinct from the former; and as it were one of the <hi>horns,</hi> rending and ſeparating it ſelf from the other Body, or ſubjection from the Woman, under a ſeeming pretence of Reformation, or of more Purity, and eaſie Government to the former, but is ſtill the <hi>Dragon</hi> in cruelty and tyranny.</p>
+            <p>That this is a diſtinct Beaſt from the former is evident. As,</p>
+            <p>
+               <hi>First,</hi> This Beaſt, <hi>verſ.</hi> 11. had another original from <hi>verſ.</hi> 1. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> 
+               <hi>The first Beast aroſe out of the Sea,</hi> viz. Confuſion in the <hi>Roman</hi> State; but <hi>this Beast aroſe out of the Earth,</hi> viz. Earthly and <note place="margin">Rev. 13. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> carnal Wiſdom, or Prudence of State, to caſt off Imperial Pa<g ref="char:EOLhyphen"/>pal Juriſdiction over them.</p>
+            <p>
+               <hi>Secondly,</hi> This Beaſt had <hi>two horns,</hi> or <hi>two Powers,</hi> viz. the <hi>Sword,</hi> and the <hi>Keys;</hi> Power <hi>Civil</hi> and <hi>Eccleſiastical.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> The <hi>ten Kings,</hi> had only <hi>ten horns,</hi> viz. <hi>Civil Power;</hi> and the Woman which rode them, kept the <hi>Keys</hi> from them all; and this Beaſt got <hi>two horns,</hi> viz. both <hi>Powers</hi> to himſelf.</p>
+            <p>But the <hi>two horns</hi> of this Beaſt, are ſaid to be <hi>horns like a</hi> 
+               <note place="margin">Rev. 13. 11.</note> 
+               <hi>Lamb,</hi> viz.</p>
+            <p>
+               <hi>Firſt, Horns (like a Lamb)</hi> but new budding or putting forth, very tender and able to do little hurt.</p>
+            <p>
+               <hi>Secondly, Horns (like a Lamb)</hi> viz. Powers meekned and abated of that hardneſs and ſtrength, as was in the <hi>ten horns;</hi> or Powers greatly limited and reſtrained, to what the former <hi>hornes</hi> were: and yet this Beaſt ſtill ſpake as a <hi>Dragon,</hi> viz. <note place="margin">Rev. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 11.</note> he lays claim to Imperial Majeſty, as abſolute Monarch in his Dominions.</p>
+            <pb n="28" facs="tcp:49673:15"/>
+            <p> 
+               <hi>Thirdly,</hi> Again, it is ſaid of this Beaſt, <hi>And he exerciſeth</hi> 
+               <note place="margin">Rev. 13. 12.</note> 
+               <hi>[all the Power of the first Beast before him] viz.</hi> All the Pow<g ref="char:EOLhyphen"/>er of the whol Antichriſt, Civil and Eccleſiaſtical; therefore this is another Antichriſt, diſtinct from the former, <hi>viz.</hi> the Antichriſt with <hi>ten horns.</hi> Mark the words, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> 
+               <hi>He exerciſeth (or putteth out) all the power of the former Beast,</hi> in Church and in State; yet not by donation, or deſignation from the for<g ref="char:EOLhyphen"/>mer <note place="margin">Rev. 13. 12.</note> Beaſt, as the former Beaſt did by deſignation from the <hi>Dragon,</hi> but meerly by abruption, or breaking off from the for<g ref="char:EOLhyphen"/>mer Beaſt, and ſo aſſuming abſolute Juriſdiction Civil and Eccleſiaſtical in his own Kingdom, as <hi>Hen.</hi> 8. did.</p>
+            <p>
+               <hi>Fourthly,</hi> It is further ſaid of this Beaſt, <hi>And he had power to give Life to the Image of the Beast,</hi> &amp;c. <hi>viz.</hi> To the whole <note place="margin">Rev. 13. 15, 16, 17.</note> form of the Government of the former great Beaſt, (or the old Antichriſt) in Civil and Eccleſiaſtical Juriſdiction. Or this Beaſt with <hi>two horns,</hi> had power to give life, breath, or efficacy to Civil and Eccleſiaſtical Officers; to force and com<g ref="char:EOLhyphen"/>pel obedience to all his Laws, Civil and Eccleſiaſtical, as any <note place="margin">See the Acts of Allegiance and Supre<g ref="char:EOLhyphen"/>macy.</note> of the Emperors, Kings, or Popes did, or do in their Domi<g ref="char:EOLhyphen"/>nions. From all which we may Obſerve,</p>
+            <p>
+               <hi>First,</hi> That this Beaſt is not ſaid to act his own Power ſing<g ref="char:EOLhyphen"/>ly and ſimply, but he acts the Power of others. <hi>And he had</hi> 
+               <note place="margin">Rev. 13. 15.</note> 
+               <hi>Power to give Life.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Though it is ſaid, <hi>He had Power to give Life,</hi> but not ſaid to be from God, or the <hi>Dragon,</hi> or the former Beaſt; therefore it muſt follow that this Beaſt had his Power from the Earth, <hi>viz.</hi> from that earthly Intereſt out of which he aroſe, and ſo is one of the Kings of the Earth.</p>
+            <p>
+               <hi>Thirdly, He had Power to give Life to the Image of the former Beast;</hi> Therefore this Beaſt, and the former Beaſt differ, as a Beaſt and the Image of that Beaſt differ. This latter Beaſt hath the Power of the former Beaſt Civil and Eccleſiaſtical, but not lo fully and abſolutely. The Pope of <hi>Rome,</hi> and other Mo<g ref="char:EOLhyphen"/>narchs are Powers abſolute, and Independant from the People; but this Beaſt with <hi>two horns</hi> is a Power under limitation and reſtraint, both Civil and Eccleſiaſtical, and is but the Image, Likeneſs, or Picture of the former great Antichriſt, and not the ſame Beaſt.</p>
+            <p>I might mention other diſtinct marks ſet upon this latter
+<pb n="29" facs="tcp:49673:15"/> Beaſt, to difference him from the former Beaſt, and yet ſhew him to be one in Nature with the other Beaſt; ſo that both make up but the great Beaſt Antichriſt in the whole: Yet they are ſo diſtinct, that they are properly two Beaſts, and two An<g ref="char:EOLhyphen"/>tichriſts, which may be diſtinguiſhed moſt properly by Anti<g ref="char:EOLhyphen"/>chriſt <hi>Papal,</hi> and Antichriſt <hi>Proteſtant;</hi> and if this New Name of Antichriſt hold good, and Antichriſt be really found and diſ<g ref="char:EOLhyphen"/>covered in the name and ſhew of a Proteſtant or Proteſtantiſm, then Satan, the Devil, or Dragon, is diſcovered in his Cheats. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> 
+               <hi>Firſt,</hi> In influencing Heathen, or Pagan Powers. <hi>Secondly,</hi> As <note place="margin">Satans cheats diſcovered.</note> influencing Antichriſtian Powers Papal. <hi>Thirdly,</hi> As influ<g ref="char:EOLhyphen"/>encing Antichriſtian Powers Proteſtant, under which many Saints deeply ſuffer in ſeveral Countries, as will be more ma<g ref="char:EOLhyphen"/>nifeſted in little time, as I humbly judge.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Partic. </seg>4</label> 
+               <hi>Fourthly,</hi> I take the <hi>Politick Sate</hi> of this Nation to be dif<g ref="char:EOLhyphen"/>ferent and diſtinct from the <hi>Four Empires;</hi> It is plain both <note place="margin">Dan. 5. 19. verſ. 30, 31. and 8. 3, &amp;c.</note> from <hi>Prophecy</hi> and <hi>Hiſtory,</hi> That the <hi>Four Empires</hi> aroſe by the <hi>Sword</hi> and <hi>Conqueſt</hi> ſucceſſively, and ſo gave Laws at pleaſure. And though we ſhould grant, that <hi>William</hi> of <hi>Normandy</hi> inva<g ref="char:EOLhyphen"/>ded <hi>England</hi> by the <hi>Sword</hi> and <hi>Pollicy,</hi> and was called, <hi>William the Conqueror,</hi> yet he could not hold his Monarchy, but by <hi>A<g ref="char:EOLhyphen"/>greement</hi> 
+               <note place="margin">The People of <hi>England</hi> are the firſt Seat of Power</note> 
+               <hi>with the People,</hi> and <hi>to Rule by Law.</hi> Therefore by the Civil Conſtitution of <hi>England, The People are the firſt Seat of Power;</hi> and the Kings of <hi>England</hi> have been as well bound by Oath to Govern by Law, as the People are bound by Oath, or Law, to ſubject to Kings as Governours in Chief.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Partic. </seg>5</label> 
+               <hi>Fifthly,</hi> and laſtly; The Lords People in <hi>England,</hi> have by the Light of the Goſpel, and brightneſs of Chriſts coming, (and <note place="margin">2 Theſ. 3. 3, 4, 8</note> with the ſmart of Heatheniſh and Antichriſtian Tyranny) made great diſcoveries of the <hi>Man of Sin, the Son of Perdition, who oppoſeth and exalteth himſelf above all that is called God;</hi> Ty<g ref="char:EOLhyphen"/>rannizing over their Souls and Bodys; and now ſighing and ſay<g ref="char:EOLhyphen"/>ing, <hi>O Lord our God, other Lords beſides thee have had Dominion over us; but now by thee only will we make mention of thy Name,</hi> Iſa. 26. 13.</p>
+            <p>Now for the Lords Remnant, under and after all theſe Bonds and Engagements to God, and one to another, with ex<g ref="char:EOLhyphen"/>periences of Gods appearing for them; for them to turn back to <hi>Egypt</hi> and <hi>Babylon,</hi> and break Covenant with God, and one
+<pb n="30" facs="tcp:49673:16"/> with another; For <hi>them</hi> again to ſet up what they had de<g ref="char:EOLhyphen"/>ſtroyed in Gods Name, Spirit, and Power, and from which they were redeemed by ſo great Grace, through many Prayers, with the exhauſting of ſo great Treaſure, and the price of ſo much Blood of Saints, with others; and again (for thoſe re<g ref="char:EOLhyphen"/>deemed Souls) to ſubmit their Necks to the ſame Yoke of Ty<g ref="char:EOLhyphen"/>ranny: this muſt needs be a ſin of high nature, and dreadfully provoking God.</p>
+            <p>SIR,</p>
+            <p>YOu were pleaſed to give your Underſtanding upon ſeve<g ref="char:EOLhyphen"/>ral Paſſages in that Paper, which I willingly paſs, as loath to take up much of your time to read over my thoughts in every particular; but if the Lord ſhall be pleaſed to bring to light more of his ſecret Will, and our Duty in our Day, this Labour will not be loſt, or this time meerly ſpent; and it will be found both our honour and our Souls quiet, to be witneſſing for Chriſt againſt Antichriſt, however it goes with our outward man.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The 10th. Month, the 12th. Day,</hi> 1667.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="31" facs="tcp:49673:16"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SOme dayes after I had written my thoughts in what I judged then meet in return to yours, I was under ſome conviction in my ſelf, that I had not fully explained my Underſtanding upon <hi>Rom.</hi> 13. 1, <hi>&amp;c.</hi> a Scripture which I had ſeveral times cited in a ſence which ſome do not receive. I am therefore humbly bold to add theſe Lines as a <hi>Post-ſcript</hi> to the former. I find it is the opinion of ſome men (godly and learned) <hi>That the Pagan Roman</hi> Caeſars <hi>were, and the Antichriſtian Kings are (though idolatrous, beaſtly, bloody Ty<g ref="char:EOLhyphen"/>rants) the Magiſtrates and Miniſters of God, Conſtituted and Or<g ref="char:EOLhyphen"/>dained, and Inveſted by God with all Supream Authority (in Civil affairs) to rule over the Lords People; and that the Saints are commanded by God to ſubmit, and ſubject to thoſe Powers (in their Bodies and Eſtates) for the Lords ſake, and for Conſcience ſake.</hi> This I humbly judge is Written, Printed, Preached, and Pro<g ref="char:EOLhyphen"/>feſſed, <hi>&amp;c.</hi>
+            </p>
+            <p>It ſeems to me, That the Old Teſtament (the Law and Pro<g ref="char:EOLhyphen"/>phets, which ſpeak moſt of Political Government) are yet ſi<g ref="char:EOLhyphen"/>lent in this point, neither recording the time when, the man<g ref="char:EOLhyphen"/>ner how, or the words of Gods Commiſſion, and their Inveſt<g ref="char:EOLhyphen"/>ment into ſuch abſolute Soveraign Authority over his People; nor is there (as I know, or can be produced) any one Text from the Old Teſtament, where God by <hi>Moſes,</hi> or any of the Prophets commanded his People to ſubmit to <hi>Pagan Roman Caeſars,</hi> or <hi>Antichriſtian, Idolatrous, Beaſtly, bloody Tyrants (as Gods Ordinance) for the Lords ſake, or for Conſcience ſake.</hi> But the proof of this Doctrine is taken out of the New Teſtament; and two great Apoſtles of Chriſt, <hi>Peter</hi> and <hi>Paul,</hi> are made the only Fathers of this Opinion, which I deſire to examine.</p>
+            <p>The Riſe and Original of the <hi>Pagan Caeſars</hi> (or the 4<hi rend="sup">th</hi>. Em<g ref="char:EOLhyphen"/>pire) was firſt fore-ſhewed by the Prophet <hi>Daniel,</hi> in theſe words; <hi>After this I ſaw in the Night-Viſions, and behold, a fourth Beaſt, dreadful and terrible, and ſtrong exceedingly; and it</hi> 
+               <note place="margin">Dan. 7. 7. ex<g ref="char:EOLhyphen"/>pounded. v. 23.</note> 
+               <hi>had great iron teeth; it devoured, and brake in pieces, and ſtamped the reſidue with the feet of it. And it was divers from all the Beaſts</hi>
+               <pb n="32" facs="tcp:49673:17"/> 
+               <hi>that were before it; and it had ten horns.</hi> Here <hi>Daniel</hi> (in his time) deſcribed the <hi>fourth Empire,</hi> whence it was, <hi>verſ.</hi> 3. after what it was, and how it acted in power and ſtrength (by Gods per<g ref="char:EOLhyphen"/>miſſion) but not by Gods Inſtitution and Commiſſion, that can be proved.</p>
+            <p>The Riſe and Original alſo of Antichriſt (or the Antichriſti<g ref="char:EOLhyphen"/>an State) I take to be darkly repreſented by <hi>Daniel, in the lit<g ref="char:EOLhyphen"/>tle</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7. 8. verſ. 24, 25, 26, 27.</note> 
+               <hi>horn that came up among the ten horns</hi> of the <hi>Roman Empire,</hi> or <hi>Roman Beaſt;</hi> and how that acted alſo (by Gods permiſſion) and how that <hi>Horn</hi> and <hi>Beaſt</hi> ſhall end.</p>
+            <p>But this <hi>Horn</hi> or <hi>Beaſt</hi> is ſhewed to the Apoſtle <hi>John,</hi> and deſcribed fully <hi>Rev.</hi> 13. 1, 2, <hi>&amp;c.</hi> which is generally taken to repreſent, the Antichriſtian State Civil or Political. The Riſe of this <hi>Beaſt, was out of the Sea; and he had ten horns, and upon his horns ten Crowns, and upon his Heads the names of Blaſ<g ref="char:EOLhyphen"/>phemy,</hi> verſ. 1. <hi>The Dragon</hi> (or the Devil) <hi>gave this Beast his Power, and his Seat, and great Authority,</hi> verſ. 2. <hi>And there was given him a mouth (viz.</hi> to the Beaſt Antichriſt) <hi>ſpeaking great things, and Blaſphemies,</hi> verſ. 5. <hi>And he opened his mouth in Blaſphemies againſt God, to blaſpheme his Name, and his Taber<g ref="char:EOLhyphen"/>nacle, and them that dwell in Heaven,</hi> verſ. 6. <hi>And it was given him to make war with the Saints, and to overcome them,</hi> verſ. 7. Now when the Original of Antichriſt is thus plainly ſet out, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> That his Power, Seat, and great Authority is from the Devil; his work to Blaſpheme God, and his Worſhip, and to make war with, and overcome the Saints; how unreaſonable and un<g ref="char:EOLhyphen"/>warranted ſeems that Aſſertion, which yet makes the <hi>Pagan Roman Caeſars,</hi> and <hi>Antichriſtian Kings, to be Conſtituted, Or<g ref="char:EOLhyphen"/>dained, and Inveſted by God with all Supream, Magiſterial Autho<g ref="char:EOLhyphen"/>rity, to rule over his People (in Civil Affairs) and that the Saints owe ſubmiſſion, and ſubjection unto thoſe Powers, in their Bodies and Estates, how intollerable, bloody, and tyrannical ſoever they be.</hi> But (to me) there ſeems to be an unanſwerable Argument couched againſt this, <hi>verſ.</hi> 7. in theſe words; <hi>And it was given him to make war with the Saints, and to overcome them.</hi> From hence I argue,</p>
+            <p>If in the riſing State, or under the Antichriſtian Civil State, the Saints were in Arms lawfully, upon their own defence, againſt Antichriſt in his Civil State, and Antichriſt overcame
+<pb n="33" facs="tcp:49673:17"/> the Saints in war; then the Saints had Civil Priviledges which they lawfully defended againſt Antichriſt: But under the Ci<g ref="char:EOLhyphen"/>vil State of Antichriſt, <hi>&amp;c. Ergo.</hi>
+            </p>
+            <p>I will not follow this Argument as I might, to prove it from the conſent of Scriptures, and Hiſtory; but I ſhall humbly add my thoughts upon theſe words (which ſome think there is much in for Antichriſt) <hi>viz. And it was given him;</hi> 
+               <note place="margin">Rev. 13. 7.</note>
+            </p>
+            <p>Here we are to enquire, <hi>First,</hi> Who is here to be under<g ref="char:EOLhyphen"/>derſtood by this particle <hi>him.</hi>
+            </p>
+            <p>To this the Anſwer is clear, <hi>It is the Beaſt Antichrist,</hi> v. 1, 2.</p>
+            <p>
+               <hi>Secondly,</hi> What Power Antichriſt had?</p>
+            <p>The Anſwer is common, <hi>viz. Civil Power to make war, or power and ſtrength to raiſe Armies, and make war with, and over<g ref="char:EOLhyphen"/>come the Saints.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> How Antichriſt had or came by this Power?</p>
+            <p>To this the Text anſwers; <hi>It was given him.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> But the great Queſtion is, Who gave Antichriſt this Power? <hi>viz.</hi> God, or ſome other?</p>
+            <p>The Anſwer is plain, <hi>The Dragon gave him his Power, and</hi> 
+               <note place="margin">Rev. 13. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> 
+               <hi>his Seat, and great Authority.</hi>
+            </p>
+            <p>Now when the holy Ghoſt is thus plain, and punctual in de<g ref="char:EOLhyphen"/>ſcribing Antichriſt in the Original of his Power, and in the improvement of it, againſt God, Holineſs and Saints; that yet Antichriſt ſhould be aſſerted, <hi>the Ordinance of God,</hi> and <hi>Mi<g ref="char:EOLhyphen"/>niſter of God, &amp;c.</hi> I confeſs I ſee no ground for it from theſe Scriptures.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But it is ſaid by Saints to Antichriſt, as Chriſt once ſaid to <hi>Pilate; Thou couldeſt have no power at all against me, except it were given thee from above; therefore he that delivered me to thee,</hi> 
+               <note place="margin">Joh. 19. 10, 11.</note> 
+               <hi>had the greater ſin.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this I Reply, That (in like manner as <hi>Pilate</hi> was) <hi>Anti<g ref="char:EOLhyphen"/>christ</hi> was permitted of God (in whom it was to have hindred it) to ariſe and get ſtrength, and power to make war with the <note place="margin">Rev. 2. 5, 10.</note> Saints, and to overcome them, either for trial of their Faith, or rebuke of their ſin. <hi>Pilate</hi> and the <hi>Jews</hi> could have put out <note place="margin">Act. 2. 22, 23. Rom. 9. 17.</note> no act of power againſt Chriſt, or Antichriſt againſt the Saints, but as God permitted and ſuffered, in his own wiſdom and counſel, to bring to paſs his deſignes of greater Grace, Power, and Glory. So the Devil had no power over <hi>Job,</hi> but as God <note place="margin">Job. 1. 9, 10,</note>
+               <pb n="34" facs="tcp:49673:18"/> ſuffered and permitted. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> And I ſee not but by the ſame Argu<g ref="char:EOLhyphen"/>ment that the <hi>Pagan Caeſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and <hi>Antichriſtian Kings</hi> are aſſert<g ref="char:EOLhyphen"/>ed to be <hi>the Ordinance of God, and to be obeyed by the Lords People;</hi> by the ſame Argument the Devil muſt be acknowledged to be <hi>the Orninance of God, and to be obeyed by the Saints.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Or if it be ſaid, <hi>That God doth the Saints good by the Afflictions and Perſecutions from Tyrants.</hi> 
+               <note place="margin">1 Cor. 3. 22, 23</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I ſay, That God by his Wiſdom, Grace, and Power, ſo or<g ref="char:EOLhyphen"/>ders all for the good of Saints, inward or outward, and yet <note place="margin">Rom 8. 28.</note> neither the Devil, or wicked men are the efficient cauſe of that good which comes to Saints by ſanctified afflictions. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> Therefore I yet ſee not any Scripture-proof, that the <hi>Pagan Caeſars,</hi> or <hi>An<g ref="char:EOLhyphen"/>tichriſtian Kings are the Ordinance of God, and to be obeyed by the Saints, in their Bodies and Eſtates, for the Lords ſake, and for Con<g ref="char:EOLhyphen"/>ſcience ſake;</hi> becauſe God uſeth theſe Rods to chaſtize the Saints with. As there hath no Heathen or Antichriſtian State ariſen in the World but by Gods Permiſſion and Providence, <note place="margin">Dan 4. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſo there hath been a concurrance of Natural Cauſes, leading to ſuch Changes of States and Governments (God ſecretly car<g ref="char:EOLhyphen"/>rying on his deſignes in them) and yet ſo as the Agents or In<g ref="char:EOLhyphen"/>ſtruments therein have not ſeen God in thoſe things, and ſo they have been curſed in the deſignes which they have accom<g ref="char:EOLhyphen"/>pliſhed againſt the Lords People and Intereſt. Thus the <hi>Hea<g ref="char:EOLhyphen"/>then</hi> 
+               <note place="margin">Iſa. 10. 5, 6, &amp;c Mat. 27. 1, 2, &amp;c. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct. 2. 22, 23.</note> 
+               <hi>State, Judas,</hi> and the <hi>Jews,</hi> came under the Curſe for de<g ref="char:EOLhyphen"/>ſtroying <hi>Jeruſalem,</hi> for betraying Chriſt, and putting him to death, although they fulfilled the determinate Counſel of God. Therefore what Chriſt ſaid of <hi>Judas,</hi> may be ſaid of every apo<g ref="char:EOLhyphen"/>ſtate Profeſſor, who (for gain or ſelf ends) hath either former<g ref="char:EOLhyphen"/>ly or in later times, betrayed the Lords Intereſt and People into the hands of Antichriſtian Kings (though by Gods ſecret counſel and permiſſion.) The diſtreſſed Saints may ſay, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> 
+               <hi>He</hi> (or they) <hi>that delivered us into the hands of beaſtly bloody men,</hi> 
+               <note place="margin">J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn 19. 11</note> 
+               <hi>have the greater ſin.</hi>
+            </p>
+            <p>But ſtill ſome ſuppoſe that they have but done their duty, and to confirm their opinion and practice, in ſubjecting unto <hi>Pagan,</hi> or <hi>Antichriſtian Kings</hi> (as having power of Rule over them in Civil Affairs, by Gods appointment) they urge the Writings of <hi>Peter,</hi> and both <hi>Pauls</hi> Doctrine and Practice; but the two chief Corner Stones on which they found their Opi<g ref="char:EOLhyphen"/>nion,
+<pb n="35" facs="tcp:49673:18"/> is, 1 <hi>Pet.</hi> 2. 13, 14. and <hi>Rom.</hi> 13. 1. Of theſe Scriptures therefore, I will take a further view.</p>
+            <p>The words of <hi>Peter</hi> are theſe: <hi>Submit your ſelves to every Or<g ref="char:EOLhyphen"/>dinance</hi> 
+               <note place="margin">1 Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>of Man, for the Lords ſake, whether it be to the King as Supream, &amp;c.</hi>
+            </p>
+            <p>In theſe words <hi>Peter</hi> enjoyns Saints univerſal obedience to every Ordinance of Man, or Law of Man (as ſome take it) Civil and Eccleſiaſtical; not conſidering the ſtate, condition, or quality of the Kings, <hi>Pagan,</hi> or <hi>Antichristian.</hi> But as <hi>Peter</hi> wrote this to Saints under the <hi>Pagan Roman Caeſars,</hi> it is taken for granted, that <hi>Peter</hi> in his time commanded thoſe Saints to ſubmit to every Ordinance of thoſe Emperours (without ex<g ref="char:EOLhyphen"/>ception) though idolat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous, beaſtly, bloody Tyrants.</p>
+            <p>Some men again (godly and learned) ſee cauſe to put a re<g ref="char:EOLhyphen"/>ſtriction upon <hi>Peters</hi> univerſal, and ſay, That <hi>Peters</hi> exhorta<g ref="char:EOLhyphen"/>tion to Saints in that day, was to ſubmit to every Ordinance of Man in Civil Affairs concerning the Bodies and Eſtates of Saints; <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> But the Saints Conſciences to God, in Spiritual things were, and are only under the Government and Ordinances of God and Chriſt. And this their poſition they prove from other Texts, and the currant of Scripture. But I have given my ſence upon this place in the former Papers, and therefore paſs it here.</p>
+            <p>But the main and chief Text in all the Scriptures urged, are the words of <hi>Paul,</hi> written to the Saints at <hi>Rome.</hi> His words are theſe,</p>
+            <p>
+               <hi>Let every ſoul be ſubject to the higher Powers; for there is no Power but of God: the Powers that be, are ordained</hi> (or ordered) <hi>of</hi> 
+               <note place="margin">Rom. 13. 1</note> 
+               <hi>God.</hi>
+            </p>
+            <p>From this Text, ſome argue thus.</p>
+            <p>
+               <hi>Firſt,</hi> That <hi>Paul</hi> commands a univerſal obedience to the Higher Powers (by Saints and Sinners) <hi>Let every ſoul.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The <hi>Powers (that be) are ordained of God. Paul</hi> ſaith not, <hi>The Powers that have been,</hi> or, <hi>the Powers that ſhall be, are Ordained of God;</hi> But, <hi>the Powers [which be] are Ordained of God.</hi> And the Powers which then were in being, were the <hi>Pa<g ref="char:EOLhyphen"/>gan Roman Caeſars,</hi> idolatrous, beaſtly, bloody Tyrants; the which command is ſtill binding to Chriſtians under the like Powers.</p>
+            <p>From this Text, ſome give the ſole Supream Power to
+<pb n="36" facs="tcp:49673:19"/> Kings to rule over mens Bodies and Souls, as God. Some a<g ref="char:EOLhyphen"/>gain reſtrain the Royal Power of Kings only to the Bodies of Saints in Civil Affairs, and give the Soveraignty of Souls to <note place="margin">Eph 1. 21, 22, 23.</note> Chriſt, <hi>as Head of the Church,</hi> upon the grounds before expreſt.</p>
+            <p>But I muſt take the humble boldneſs (in Truths behalf) to diſſent from others in their ſenſe upon this Text<g ref="char:punc">▪</g> I humbly judge, that this Text proves neither the one nor the others opi<g ref="char:EOLhyphen"/>nion, though ſome be godly and learned, as to the opinion of thoſe, who from this Text (or any other) do give the ſole Su<g ref="char:EOLhyphen"/>pream Power to Men, as Lords, and Law-givers to others, both for Soul and Body; I paſs them by.</p>
+            <p>But to thoſe godly and Learned, who from this Text (or any other) do plead for Saints Subjection to <hi>Pagan,</hi> or <hi>Anti<g ref="char:EOLhyphen"/>chriſtian Kings</hi> (though idolatrous, beaſtly, bloody Tyrants) in Civil Affai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, or Temporal Juriſdiction, <hi>for the Lords ſake, and for Conſcience ſake.</hi> I humbly Reply, that they miſtake the Apoſtle, and miſ-apply the Text, who ſo take the place; and to theſe I humbly offer theſe my Reaſons, againſt that ſenſe, to conſideration.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> 
+               <hi>First,</hi> Though <hi>Paul</hi> ſay, <hi>Let every ſoul be ſubject to the high<g ref="char:EOLhyphen"/>er Powers;</hi> yet he doth not ſay, Let every ſoul be ſubject to the higher Powers in all Civil Affairs, concerning Bodies and Eſtates; neither doth he ſay, to <hi>Pagan,</hi> or to <hi>Antichriſtian Powers,</hi> but with reſtriction, <hi>to Powrs ordained of God,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> as his Miniſters of State. Therefore, though <hi>Paul</hi> commands ſub<g ref="char:EOLhyphen"/>jection <note place="margin">Rom. 13. 1, 2, 3, 4, 5.</note> from <hi>every ſoul,</hi> yet it is not in all things, or to all Per<g ref="char:EOLhyphen"/>ſons, or Powers, but as <hi>Ordained by God.</hi>
+            </p>
+            <p>My thoughts are, That thoſe who ſee cauſe to reſtrain gene<g ref="char:EOLhyphen"/>ral Scriptures (which ſpeak of Soveraign Magiſterial Power) to Civil Juriſdiction over the outward man; and except their Power and Juriſdiction (over ſouls in Spiritual and Eccleſiaſti<g ref="char:EOLhyphen"/>cal things) will (upon good conſideration) ſee cauſe alſo to re<g ref="char:EOLhyphen"/>ſtrain Magiſterial Power and Juriſdiction, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> over Bodies in Civil things, and will not ſtrain Texts againſt the currant of Scrip<g ref="char:EOLhyphen"/>tures, to prove what they do not hint.</p>
+            <p>If we take theſe words of <hi>Paul,</hi> (or <hi>Peter)</hi> as commanding Saints ſubjection to the Higher Powers, (be they what they will) in all outward things; <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> this takes away the Soveraignty of God over Man in all outward things, and nulls the moral
+<pb n="37" facs="tcp:49673:19"/> Law, which ſets bounds between man and man, Superiour and Inferiour. Therefore upon this ground the Apoſtle cannot be taken in that ſenſe, <hi>viz.</hi> to give a power to ſome men <hi>(viz.</hi> to Kings) to command others to break Gods Moral Laws, which Moral Laws <hi>Paul</hi> himſelf maintained, and alſo taught others in his Epiſtles.</p>
+            <p>But I ſhall humbly give my ſence upon this Text (as of o<g ref="char:EOLhyphen"/>ther the like Scriptures) That both <hi>Paul</hi> and <hi>Peter</hi> do only call and command Saints Obedience, to all Lawful Magiſtrates, in all Lawful things commanded by God, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> and therein enjoynes ſubjection to Saints, <hi>for the Lords ſake, and for Conſcience ſake, as to God.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon, </seg>2</label> 
+               <hi>Secondly,</hi> The ſcope of the Apoſtle in this place (as I judge) is to preſs Saints to ſubmit and ſubject to Higher Powers, or Magiſtrates, as <hi>Ordained and ſet over them by God,</hi> as his Mini<g ref="char:EOLhyphen"/>ſters in State for their good, to reſtrain ſins againſt the Moral <note place="margin">Rom. 13. 1, 2, &amp;c. Exod. 18. 15, 16, &amp;c. 2 Chr. 19. 6, 7.</note> Law, and to maintain Juſtice, Equity, and Peace between man and man. <hi>Paul</hi> deſcribes not here theſe Miniſters of State by Names, but by their Qualities, and gives only a general de<g ref="char:EOLhyphen"/>ſcription of Magiſtracy, to be obeyed, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> as Miniſters <hi>Ordained by God.</hi>
+            </p>
+            <p>In the ſame way, and after the ſame manner that <hi>Paul</hi> de<g ref="char:EOLhyphen"/>ſcribes <hi>Antichriſt, the Man of Sin, the Son of Perdition,</hi> to be <note place="margin">2 Theſ. 2. 3, 4. Rev. 14 9, 10. Rev. 13. 1, &amp;c,</note> rejected of Saints; he here deſcribes the true Magiſtrates of God, to be obeyed by the Lords People, for the Lords ſake.</p>
+            <p>Surely thoſe have little ſight who ſee not, that the general Government of Nations is ſtill beaſtly Tyranny, <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> both by Hea<g ref="char:EOLhyphen"/>then and Antichriſtian Kings, rather than the Government of God for the good of Mankind. But many are ſtumbled at theſe words of <hi>Paul, The Powers that be.</hi> The great queſtion here is, <note place="margin">The queſtion to what Pow<g ref="char:EOLhyphen"/>ers Paul re<g ref="char:EOLhyphen"/>fers.</note> to what Powers the Apoſtle refers? <hi>viz.</hi> Whether to the <hi>Pa<g ref="char:EOLhyphen"/>gan Caeſars</hi> Power, who were then Monarchs of all the World, or to the Civil Power and Juriſdiction then exerciſed amongſt the Saints, as far as they could, or to Magiſtracy, as ordained and conſtituted by God in the Jewiſh State.</p>
+            <p>If we take the Apoſtle in either of the latter ſenſes, there is Scripture-grounds for it; but if we refer <hi>Pauls</hi> words to the <hi>Pagan Caeſars State,</hi> there is only this poor plea for it, That <note place="margin">Luk. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1, 2, with Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls time.</note> the <hi>Pagan Caeſars</hi> were then being, and reigning in the World;
+<pb n="38" facs="tcp:49673:20"/> but anſwered not to the qualifications of thoſe Miniſters of God as <hi>Paul</hi> deſcribeth, <hi>Magiſtrates Ordained by God, now anſwer<g ref="char:EOLhyphen"/>ing the ends of Government.</hi> The <hi>Caeſars</hi> then being and reigning <note place="margin">Rom. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3, 4, 5</note> in the World, is but a circumſtance of time, but the qualifica<g ref="char:EOLhyphen"/>tions of Rulers, and the ends of Government, are Eſſentials in <hi>Magiſtracy;</hi> and therefore to expound <hi>Paul</hi> by a conceived circumſtance, when and where the Eſſentials of Government <hi>(as Ordained by God)</hi> are wanting, cannot be held Orthodox and ſound. But if we take <hi>Paul</hi> in theſe words, <hi>The Powers that be,</hi> to refer to that Civil Power and Juriſdiction reſting at that time, and ſeated in the Saints by God, (according to the <hi>Moral Law</hi> given to <hi>Iſrael)</hi> there is much Reaſon and Scrip<g ref="char:EOLhyphen"/>ture to confirm this Expoſition.</p>
+            <p>
+               <hi>Firſt,</hi> Before Chriſt left the World, he devolved the admi<g ref="char:EOLhyphen"/>niſtration of all that Power and Authority (Civil and Spiri<g ref="char:EOLhyphen"/>tual) <note place="margin">Mat. 28. 18, &amp;, Mat. 25. 14. Mar. 13. 34.</note> over his own People, (as intruſted with him by the Fa<g ref="char:EOLhyphen"/>ther) to his own Servants.</p>
+            <p>
+               <hi>Secondly,</hi> In <hi>Pauls</hi> time, there were Saints in the Churches who were fitted and qualified for Civil Governours or Ma<g ref="char:EOLhyphen"/>giſtrates. <note place="margin">1 Cor. 6. 4.</note>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> In Pauls time, the Sain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s had ſufficient Laws, and power of Juriſdiction, to hear and determine all Civil differ<g ref="char:EOLhyphen"/>ences amongſt themſelves, that they needed not to go to Law before the <hi>Pagan</hi> Governours; and therefore <hi>Paul ſharply re<g ref="char:EOLhyphen"/>proved the Saints of Corinth for going to Law before the unjuſt, and not before the Saints.</hi> 
+               <note place="margin">1 Cor. 6. 4</note>
+            </p>
+            <p>Theſe Conſiderations have ſwayed with me, and I know not one argument to ſhake me in my judgement, as this ſenſe hath the currant of Scripture with it. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> But if we ſhall yet ſup<g ref="char:EOLhyphen"/>poſe, that there wants ſome words in the Text (as is common) to clear and fill the Apoſtles meaning; yet the current of the following Verſes (which gives the qualifications of <hi>Magiſtrates</hi> as conſtituted by God) carries <hi>Pauls</hi> ſence from the <hi>Pagan Roman Caeſars,</hi> that they were not the Powers which he intend<g ref="char:EOLhyphen"/>ed, neither <hi>Antichristian Kings.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>3</label> 
+               <hi>My Third</hi> Reaſon is, If we infer from <hi>Paul,</hi> or <hi>Peter, That Pagan, or Antichriſtian Kings were, or are Powers to be ſubmitted and ſubjected to by Saints in all Civil affairs (without limitation, or reſtriction to the Law of God) then Saints were, and are to obey</hi>
+               <pb n="39" facs="tcp:49673:20"/> 
+               <hi>Men (in Civil things) rather than God; and the Command of a King is Authority for Saints to break the Moral Laws of God, and Nature, and not ſin.</hi> Surely, if the Bodies and Eſtates of men, be left by God, to the Wills, Luſts and Commands of any Emperours, Kings or States (and Saints bound to obey them in all outward natural things) <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> then if Emperors, Kings, or States make Laws to break and void the Laws of God and Nature, the Saints muſt yet obey them in thoſe things. But this ſenſe and interpretation of the place, is ſo groſs and con<g ref="char:EOLhyphen"/>trary to the current of Scripture, that this cannot be received, but ſome other ſenſe muſt be ſought out; and I am perſwaded that this ſenſe following is according to Truth, <hi>viz. That as Paul hath bounded the Authority of Parents over Children, and of</hi> 
+               <note place="margin">Eph. 6. 1. v. 4. 5, 6. Col. 3. 20, 21, &amp;c.</note> 
+               <hi>Maſters over Servants, to the Law of God, and Rules of God; and therein commands Children to obey Parents, and Servants to obey Maſters in all things in the Lord, as to God and Chriſt: So the ſame Apoſtle enjoyns Saints ſubjection to Lawful Magiſtrates, in all lawful things, <label type="milestone">
+                     <seg type="milestoneunit">Note. </seg>
+                  </label> as to Political Fathers or Governours, for the Lords ſake, and for Conſcience ſake to God;</hi> and no further.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon, </seg>4</label> 
+               <hi>My Fourth</hi> Reaſon follows. It is recorded in Scripture (as an approved evidence of the Fear of God, in many of the Lords Servants) to ſlight and diſobey the cruel Laws and Commands of Kings in Moral Civil things; and in that diſ<g ref="char:EOLhyphen"/>obedience, God owned and honoured them. Of theſe the Scriptures give many Examples: As <hi>The Midwives of Egypt;</hi> 
+               <note place="margin">Exod. 1. 17, 20 v. 22. Heb. 11. 23, v. 27. 1 King. 18. 3, 4.</note> 
+               <hi>The Parents of Moſes; Moſes himſelf; Obediah, &amp;c.</hi> And though thoſe high expreſſions of the <hi>Three Children,</hi> of <hi>Peter,</hi> and other <hi>Apoſtles,</hi> ſpoken boldly before <hi>Magiſtrates</hi> in Coun<g ref="char:EOLhyphen"/>ſel, be ordinarily reſtrained to ſpiritual things and worſhip, yet I judge, that thoſe Saints did not intentionally ſo take them, but they may alſo as truly be ſpoken by Saints in Civil natu<g ref="char:EOLhyphen"/>ral Priviledges, when demnaded from them, or they com<g ref="char:EOLhyphen"/>manded by man to break any <hi>Moral Law</hi> of God. <hi>We are not</hi> 
+               <note place="margin">Dan. 3. 16. Act. 4. 19. and 5. 29.</note> 
+               <hi>careful to anſwer thee in this matter; We ought to obey God ra<g ref="char:EOLhyphen"/>ther than Man.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon, </seg>5</label> 
+               <hi>My Fifth</hi> and Laſt Reaſon is; God is Supreamly (above all Perſons and Powers) to be feared, obeyed, and ſerved by Saints and Sinners, in all Commands, Natural and Spiritual, <note place="margin">Mat. 10. 26, 28. Luke 12. 5. Iſa. 8. 13, 14.</note> Civil or Eccleſiaſtical, as he made, and hath power over Bodys
+<pb n="40" facs="tcp:49673:21"/> and Souls, to ſave, or to deſtroy eternally. God is only to be feared and obeyed by his Children and Servants, and not <note place="margin">Deut. 13. 4. 1 Chr. 16. 25. Gen. 17. 1.</note> Emperours, Kings, or States (whoever they be) in any Commands which are contrary to the Laws and Commands of God Almighty. <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> All that Power and Authority which <hi>Ma<g ref="char:EOLhyphen"/>giſtrates</hi> can exerciſe over their Brethren (by Divine Right) is by the Law and appointment of God for the good of Mankind. No one man, as a Child of <hi>Adam,</hi> hath power of Juriſdiction over another, but in the way and manner which God hath Or<g ref="char:EOLhyphen"/>dained and Appointed in his Law: Therefore it ſtands not with the Revealed Will of God in the Scriptures, or Natural Reaſons, that any Perſons, or Powers on Earth, are Inveſted by God with Supream Power, either to command any Perſon to do what God forbids, or to forbid what God commands, in matters Civil, Spiritual, or Eccleſiaſtical.</p>
+            <p>Thus I have given my underſtanding upon <hi>Rom.</hi> 13. 4. at which ſo many have, and yet do ſtumble and fall ſorely.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The 10th. Month, the 20th. Day,</hi> 1667.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49673:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
